@@ -5252,3 +5252,304 @@ TypeError: __init__() missing 1 required positional argument: 'task_id'
 [2022-08-04 12:54:25,877] {logging_mixin.py:115} INFO - [2022-08-04 12:54:25,877] {dag.py:2420} INFO - Sync 1 DAGs
 [2022-08-04 12:54:25,884] {logging_mixin.py:115} INFO - [2022-08-04 12:54:25,884] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
 [2022-08-04 12:54:25,890] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.171 seconds
+[2022-08-04 12:54:34,328] {processor.py:153} INFO - Started process (PID=65588) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:34,328] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:54:34,328] {logging_mixin.py:115} INFO - [2022-08-04 12:54:34,328] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:34,474] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:34,480] {logging_mixin.py:115} INFO - [2022-08-04 12:54:34,480] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:54:34,487] {logging_mixin.py:115} INFO - [2022-08-04 12:54:34,487] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:54:34,498] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.171 seconds
+[2022-08-04 12:54:41,205] {processor.py:153} INFO - Started process (PID=65599) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:41,206] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:54:41,206] {logging_mixin.py:115} INFO - [2022-08-04 12:54:41,206] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:41,349] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:41,355] {logging_mixin.py:115} INFO - [2022-08-04 12:54:41,355] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:54:41,362] {logging_mixin.py:115} INFO - [2022-08-04 12:54:41,362] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:54:41,373] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.169 seconds
+[2022-08-04 12:54:46,437] {processor.py:153} INFO - Started process (PID=65607) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:46,442] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:54:46,443] {logging_mixin.py:115} INFO - [2022-08-04 12:54:46,442] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:46,588] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:46,594] {logging_mixin.py:115} INFO - [2022-08-04 12:54:46,594] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:54:46,601] {logging_mixin.py:115} INFO - [2022-08-04 12:54:46,601] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:54:46,611] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.175 seconds
+[2022-08-04 12:54:52,796] {processor.py:153} INFO - Started process (PID=65616) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:52,796] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:54:52,796] {logging_mixin.py:115} INFO - [2022-08-04 12:54:52,796] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:52,938] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:52,943] {logging_mixin.py:115} INFO - [2022-08-04 12:54:52,943] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:54:52,950] {logging_mixin.py:115} INFO - [2022-08-04 12:54:52,950] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:54:52,962] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.167 seconds
+[2022-08-04 12:54:59,451] {processor.py:153} INFO - Started process (PID=65670) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:59,451] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:54:59,451] {logging_mixin.py:115} INFO - [2022-08-04 12:54:59,451] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:59,593] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:54:59,599] {logging_mixin.py:115} INFO - [2022-08-04 12:54:59,599] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:54:59,606] {logging_mixin.py:115} INFO - [2022-08-04 12:54:59,606] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:54:59,617] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.168 seconds
+[2022-08-04 12:55:06,935] {processor.py:153} INFO - Started process (PID=65679) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:06,935] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:55:06,935] {logging_mixin.py:115} INFO - [2022-08-04 12:55:06,935] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:07,079] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:07,084] {logging_mixin.py:115} INFO - [2022-08-04 12:55:07,084] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:55:07,091] {logging_mixin.py:115} INFO - [2022-08-04 12:55:07,091] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:55:07,101] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.167 seconds
+[2022-08-04 12:55:14,677] {processor.py:153} INFO - Started process (PID=65714) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:14,682] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:55:14,682] {logging_mixin.py:115} INFO - [2022-08-04 12:55:14,682] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:14,869] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:14,875] {logging_mixin.py:115} INFO - [2022-08-04 12:55:14,875] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:55:14,883] {logging_mixin.py:115} INFO - [2022-08-04 12:55:14,883] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:55:14,894] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.218 seconds
+[2022-08-04 12:55:23,554] {processor.py:153} INFO - Started process (PID=65808) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:23,554] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:55:23,554] {logging_mixin.py:115} INFO - [2022-08-04 12:55:23,554] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:23,735] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:23,742] {logging_mixin.py:115} INFO - [2022-08-04 12:55:23,741] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:55:23,749] {logging_mixin.py:115} INFO - [2022-08-04 12:55:23,749] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:55:23,760] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.208 seconds
+[2022-08-04 12:55:31,129] {processor.py:153} INFO - Started process (PID=65837) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:31,129] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:55:31,129] {logging_mixin.py:115} INFO - [2022-08-04 12:55:31,129] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:31,281] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:31,286] {logging_mixin.py:115} INFO - [2022-08-04 12:55:31,286] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:55:31,294] {logging_mixin.py:115} INFO - [2022-08-04 12:55:31,294] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:55:31,305] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.177 seconds
+[2022-08-04 12:55:38,867] {processor.py:153} INFO - Started process (PID=65856) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:38,872] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:55:38,872] {logging_mixin.py:115} INFO - [2022-08-04 12:55:38,872] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:39,019] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:39,025] {logging_mixin.py:115} INFO - [2022-08-04 12:55:39,025] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:55:39,032] {logging_mixin.py:115} INFO - [2022-08-04 12:55:39,032] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:55:39,042] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.176 seconds
+[2022-08-04 12:55:45,612] {processor.py:153} INFO - Started process (PID=65876) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:45,612] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:55:45,612] {logging_mixin.py:115} INFO - [2022-08-04 12:55:45,612] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:45,764] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:45,770] {logging_mixin.py:115} INFO - [2022-08-04 12:55:45,770] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:55:45,777] {logging_mixin.py:115} INFO - [2022-08-04 12:55:45,777] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:55:45,788] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.177 seconds
+[2022-08-04 12:55:54,219] {processor.py:153} INFO - Started process (PID=65900) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:54,224] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:55:54,225] {logging_mixin.py:115} INFO - [2022-08-04 12:55:54,225] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:54,383] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:55:54,389] {logging_mixin.py:115} INFO - [2022-08-04 12:55:54,389] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:55:54,398] {logging_mixin.py:115} INFO - [2022-08-04 12:55:54,398] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:55:54,409] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.191 seconds
+[2022-08-04 12:56:01,371] {processor.py:153} INFO - Started process (PID=65916) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:01,371] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:56:01,372] {logging_mixin.py:115} INFO - [2022-08-04 12:56:01,372] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:01,516] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:01,522] {logging_mixin.py:115} INFO - [2022-08-04 12:56:01,522] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:56:01,529] {logging_mixin.py:115} INFO - [2022-08-04 12:56:01,529] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:56:01,540] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.170 seconds
+[2022-08-04 12:56:08,476] {processor.py:153} INFO - Started process (PID=65927) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:08,481] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:56:08,482] {logging_mixin.py:115} INFO - [2022-08-04 12:56:08,482] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:08,631] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:08,637] {logging_mixin.py:115} INFO - [2022-08-04 12:56:08,637] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:56:08,644] {logging_mixin.py:115} INFO - [2022-08-04 12:56:08,644] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:56:08,650] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.175 seconds
+[2022-08-04 12:56:16,089] {processor.py:153} INFO - Started process (PID=65954) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:16,095] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:56:16,095] {logging_mixin.py:115} INFO - [2022-08-04 12:56:16,095] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:16,237] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:16,243] {logging_mixin.py:115} INFO - [2022-08-04 12:56:16,243] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:56:16,250] {logging_mixin.py:115} INFO - [2022-08-04 12:56:16,250] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:56:16,260] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.172 seconds
+[2022-08-04 12:56:23,397] {processor.py:153} INFO - Started process (PID=65986) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:23,402] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:56:23,402] {logging_mixin.py:115} INFO - [2022-08-04 12:56:23,402] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:23,580] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:23,587] {logging_mixin.py:115} INFO - [2022-08-04 12:56:23,587] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:56:23,595] {logging_mixin.py:115} INFO - [2022-08-04 12:56:23,595] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:56:23,607] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.211 seconds
+[2022-08-04 12:56:30,495] {processor.py:153} INFO - Started process (PID=65997) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:30,495] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:56:30,495] {logging_mixin.py:115} INFO - [2022-08-04 12:56:30,495] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:30,668] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:30,675] {logging_mixin.py:115} INFO - [2022-08-04 12:56:30,675] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:56:30,684] {logging_mixin.py:115} INFO - [2022-08-04 12:56:30,684] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:56:30,696] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.203 seconds
+[2022-08-04 12:56:38,598] {processor.py:153} INFO - Started process (PID=66012) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:38,598] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:56:38,598] {logging_mixin.py:115} INFO - [2022-08-04 12:56:38,598] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:38,759] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:38,765] {logging_mixin.py:115} INFO - [2022-08-04 12:56:38,765] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:56:38,773] {logging_mixin.py:115} INFO - [2022-08-04 12:56:38,773] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:56:38,783] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.187 seconds
+[2022-08-04 12:56:45,820] {processor.py:153} INFO - Started process (PID=66024) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:45,825] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:56:45,826] {logging_mixin.py:115} INFO - [2022-08-04 12:56:45,826] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:45,975] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:45,981] {logging_mixin.py:115} INFO - [2022-08-04 12:56:45,980] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:56:45,987] {logging_mixin.py:115} INFO - [2022-08-04 12:56:45,987] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:56:45,998] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.179 seconds
+[2022-08-04 12:56:54,174] {processor.py:153} INFO - Started process (PID=66034) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:54,174] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:56:54,174] {logging_mixin.py:115} INFO - [2022-08-04 12:56:54,174] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:54,322] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:56:54,328] {logging_mixin.py:115} INFO - [2022-08-04 12:56:54,327] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:56:54,335] {logging_mixin.py:115} INFO - [2022-08-04 12:56:54,335] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:56:54,346] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.174 seconds
+[2022-08-04 12:57:02,171] {processor.py:153} INFO - Started process (PID=66044) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:02,176] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:57:02,177] {logging_mixin.py:115} INFO - [2022-08-04 12:57:02,177] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:02,338] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:02,344] {logging_mixin.py:115} INFO - [2022-08-04 12:57:02,344] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:57:02,351] {logging_mixin.py:115} INFO - [2022-08-04 12:57:02,351] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:57:02,361] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.192 seconds
+[2022-08-04 12:57:10,100] {processor.py:153} INFO - Started process (PID=66057) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:10,101] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:57:10,101] {logging_mixin.py:115} INFO - [2022-08-04 12:57:10,101] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:10,253] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:10,259] {logging_mixin.py:115} INFO - [2022-08-04 12:57:10,259] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:57:10,266] {logging_mixin.py:115} INFO - [2022-08-04 12:57:10,266] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:57:10,276] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.178 seconds
+[2022-08-04 12:57:17,978] {processor.py:153} INFO - Started process (PID=66078) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:17,979] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:57:17,979] {logging_mixin.py:115} INFO - [2022-08-04 12:57:17,979] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:18,128] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:18,134] {logging_mixin.py:115} INFO - [2022-08-04 12:57:18,134] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:57:18,141] {logging_mixin.py:115} INFO - [2022-08-04 12:57:18,141] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:57:18,151] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.174 seconds
+[2022-08-04 12:57:26,722] {processor.py:153} INFO - Started process (PID=66091) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:26,727] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:57:26,728] {logging_mixin.py:115} INFO - [2022-08-04 12:57:26,728] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:26,871] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:26,877] {logging_mixin.py:115} INFO - [2022-08-04 12:57:26,877] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:57:26,884] {logging_mixin.py:115} INFO - [2022-08-04 12:57:26,884] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:57:26,895] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.174 seconds
+[2022-08-04 12:57:34,672] {processor.py:153} INFO - Started process (PID=66112) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:34,677] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:57:34,677] {logging_mixin.py:115} INFO - [2022-08-04 12:57:34,677] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:34,828] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:34,834] {logging_mixin.py:115} INFO - [2022-08-04 12:57:34,833] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:57:34,841] {logging_mixin.py:115} INFO - [2022-08-04 12:57:34,841] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:57:34,851] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.181 seconds
+[2022-08-04 12:57:42,110] {processor.py:153} INFO - Started process (PID=66175) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:42,115] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:57:42,116] {logging_mixin.py:115} INFO - [2022-08-04 12:57:42,115] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:42,265] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:42,271] {logging_mixin.py:115} INFO - [2022-08-04 12:57:42,271] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:57:42,278] {logging_mixin.py:115} INFO - [2022-08-04 12:57:42,278] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:57:42,288] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.180 seconds
+[2022-08-04 12:57:48,232] {processor.py:153} INFO - Started process (PID=66214) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:48,237] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:57:48,237] {logging_mixin.py:115} INFO - [2022-08-04 12:57:48,237] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:48,385] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:48,391] {logging_mixin.py:115} INFO - [2022-08-04 12:57:48,391] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:57:48,398] {logging_mixin.py:115} INFO - [2022-08-04 12:57:48,398] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:57:48,408] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.177 seconds
+[2022-08-04 12:57:55,747] {processor.py:153} INFO - Started process (PID=66237) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:55,747] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:57:55,747] {logging_mixin.py:115} INFO - [2022-08-04 12:57:55,747] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:55,899] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:57:55,905] {logging_mixin.py:115} INFO - [2022-08-04 12:57:55,905] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:57:55,913] {logging_mixin.py:115} INFO - [2022-08-04 12:57:55,913] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:57:55,923] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.178 seconds
+[2022-08-04 12:58:04,879] {processor.py:153} INFO - Started process (PID=66249) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:04,884] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:58:04,884] {logging_mixin.py:115} INFO - [2022-08-04 12:58:04,884] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:05,036] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:05,042] {logging_mixin.py:115} INFO - [2022-08-04 12:58:05,042] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:58:05,049] {logging_mixin.py:115} INFO - [2022-08-04 12:58:05,049] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:58:05,055] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.177 seconds
+[2022-08-04 12:58:14,009] {processor.py:153} INFO - Started process (PID=66295) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:14,009] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:58:14,010] {logging_mixin.py:115} INFO - [2022-08-04 12:58:14,010] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:14,155] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:14,160] {logging_mixin.py:115} INFO - [2022-08-04 12:58:14,160] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:58:14,167] {logging_mixin.py:115} INFO - [2022-08-04 12:58:14,167] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:58:14,177] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.169 seconds
+[2022-08-04 12:58:20,859] {processor.py:153} INFO - Started process (PID=66312) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:20,864] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:58:20,865] {logging_mixin.py:115} INFO - [2022-08-04 12:58:20,865] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:21,011] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:21,017] {logging_mixin.py:115} INFO - [2022-08-04 12:58:21,017] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:58:21,024] {logging_mixin.py:115} INFO - [2022-08-04 12:58:21,024] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:58:21,035] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.177 seconds
+[2022-08-04 12:58:28,737] {processor.py:153} INFO - Started process (PID=66323) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:28,743] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:58:28,743] {logging_mixin.py:115} INFO - [2022-08-04 12:58:28,743] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:28,891] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:28,897] {logging_mixin.py:115} INFO - [2022-08-04 12:58:28,897] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:58:28,905] {logging_mixin.py:115} INFO - [2022-08-04 12:58:28,905] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:58:28,910] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.174 seconds
+[2022-08-04 12:58:36,772] {processor.py:153} INFO - Started process (PID=66333) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:36,777] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:58:36,777] {logging_mixin.py:115} INFO - [2022-08-04 12:58:36,777] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:36,925] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:36,931] {logging_mixin.py:115} INFO - [2022-08-04 12:58:36,931] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:58:36,938] {logging_mixin.py:115} INFO - [2022-08-04 12:58:36,938] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:58:36,948] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.178 seconds
+[2022-08-04 12:58:43,664] {processor.py:153} INFO - Started process (PID=66344) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:43,669] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:58:43,670] {logging_mixin.py:115} INFO - [2022-08-04 12:58:43,670] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:43,819] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:43,825] {logging_mixin.py:115} INFO - [2022-08-04 12:58:43,825] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:58:43,832] {logging_mixin.py:115} INFO - [2022-08-04 12:58:43,832] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:58:43,843] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.180 seconds
+[2022-08-04 12:58:50,112] {processor.py:153} INFO - Started process (PID=66354) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:50,118] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:58:50,118] {logging_mixin.py:115} INFO - [2022-08-04 12:58:50,118] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:50,263] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:50,269] {logging_mixin.py:115} INFO - [2022-08-04 12:58:50,268] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:58:50,275] {logging_mixin.py:115} INFO - [2022-08-04 12:58:50,275] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:58:50,286] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.174 seconds
+[2022-08-04 12:58:57,922] {processor.py:153} INFO - Started process (PID=66367) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:57,927] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:58:57,927] {logging_mixin.py:115} INFO - [2022-08-04 12:58:57,927] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:58,076] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:58:58,082] {logging_mixin.py:115} INFO - [2022-08-04 12:58:58,081] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:58:58,088] {logging_mixin.py:115} INFO - [2022-08-04 12:58:58,088] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:58:58,095] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.175 seconds
+[2022-08-04 12:59:06,509] {processor.py:153} INFO - Started process (PID=66380) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:06,514] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:59:06,515] {logging_mixin.py:115} INFO - [2022-08-04 12:59:06,515] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:06,658] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:06,664] {logging_mixin.py:115} INFO - [2022-08-04 12:59:06,664] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:59:06,671] {logging_mixin.py:115} INFO - [2022-08-04 12:59:06,671] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:59:06,682] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.173 seconds
+[2022-08-04 12:59:14,413] {processor.py:153} INFO - Started process (PID=66395) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:14,418] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:59:14,418] {logging_mixin.py:115} INFO - [2022-08-04 12:59:14,418] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:14,564] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:14,569] {logging_mixin.py:115} INFO - [2022-08-04 12:59:14,569] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:59:14,576] {logging_mixin.py:115} INFO - [2022-08-04 12:59:14,576] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:59:14,587] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.175 seconds
+[2022-08-04 12:59:21,785] {processor.py:153} INFO - Started process (PID=66409) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:21,791] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:59:21,791] {logging_mixin.py:115} INFO - [2022-08-04 12:59:21,791] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:21,940] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:21,946] {logging_mixin.py:115} INFO - [2022-08-04 12:59:21,946] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:59:21,953] {logging_mixin.py:115} INFO - [2022-08-04 12:59:21,953] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:59:21,963] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.179 seconds
+[2022-08-04 12:59:28,669] {processor.py:153} INFO - Started process (PID=66421) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:28,675] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:59:28,675] {logging_mixin.py:115} INFO - [2022-08-04 12:59:28,675] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:28,828] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:28,833] {logging_mixin.py:115} INFO - [2022-08-04 12:59:28,833] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:59:28,840] {logging_mixin.py:115} INFO - [2022-08-04 12:59:28,840] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:59:28,846] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.178 seconds
+[2022-08-04 12:59:36,153] {processor.py:153} INFO - Started process (PID=66477) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:36,158] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:59:36,158] {logging_mixin.py:115} INFO - [2022-08-04 12:59:36,158] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:36,312] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:36,318] {logging_mixin.py:115} INFO - [2022-08-04 12:59:36,318] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:59:36,325] {logging_mixin.py:115} INFO - [2022-08-04 12:59:36,325] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:59:36,335] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.184 seconds
+[2022-08-04 12:59:43,992] {processor.py:153} INFO - Started process (PID=66505) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:43,997] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:59:43,998] {logging_mixin.py:115} INFO - [2022-08-04 12:59:43,998] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:44,145] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:44,151] {logging_mixin.py:115} INFO - [2022-08-04 12:59:44,151] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:59:44,158] {logging_mixin.py:115} INFO - [2022-08-04 12:59:44,158] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:59:44,164] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.173 seconds
+[2022-08-04 12:59:51,474] {processor.py:153} INFO - Started process (PID=66538) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:51,479] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py for tasks to queue
+[2022-08-04 12:59:51,479] {logging_mixin.py:115} INFO - [2022-08-04 12:59:51,479] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:51,628] {processor.py:651} INFO - DAG(s) dict_keys(['Innowise_task_5']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py
+[2022-08-04 12:59:51,634] {logging_mixin.py:115} INFO - [2022-08-04 12:59:51,634] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 12:59:51,641] {logging_mixin.py:115} INFO - [2022-08-04 12:59:51,641] {dag.py:2968} INFO - Setting next_dagrun for Innowise_task_5 to None, run_after=None
+[2022-08-04 12:59:51,653] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py took 0.180 seconds

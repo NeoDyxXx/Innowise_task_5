@@ -1062,3 +1062,75 @@
 [2022-08-04 12:54:04,378] {logging_mixin.py:115} INFO - [2022-08-04 12:54:04,378] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
 [2022-08-04 12:54:04,378] {logging_mixin.py:115} INFO - [2022-08-04 12:54:04,378] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
 [2022-08-04 12:54:04,384] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.034 seconds
+[2022-08-04 12:54:41,605] {processor.py:153} INFO - Started process (PID=65601) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:54:41,611] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-08-04 12:54:41,611] {logging_mixin.py:115} INFO - [2022-08-04 12:54:41,611] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:54:41,620] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:54:41,639] {logging_mixin.py:115} INFO - [2022-08-04 12:54:41,639] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 12:54:41,644] {logging_mixin.py:115} INFO - [2022-08-04 12:54:41,644] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-08-04 12:54:41,644] {logging_mixin.py:115} INFO - [2022-08-04 12:54:41,644] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-08-04 12:54:41,650] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.046 seconds
+[2022-08-04 12:55:17,294] {processor.py:153} INFO - Started process (PID=65744) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:55:17,299] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-08-04 12:55:17,300] {logging_mixin.py:115} INFO - [2022-08-04 12:55:17,300] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:55:17,308] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:55:17,328] {logging_mixin.py:115} INFO - [2022-08-04 12:55:17,328] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 12:55:17,333] {logging_mixin.py:115} INFO - [2022-08-04 12:55:17,333] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-08-04 12:55:17,333] {logging_mixin.py:115} INFO - [2022-08-04 12:55:17,333] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-08-04 12:55:17,340] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.047 seconds
+[2022-08-04 12:55:55,838] {processor.py:153} INFO - Started process (PID=65903) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:55:55,843] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-08-04 12:55:55,843] {logging_mixin.py:115} INFO - [2022-08-04 12:55:55,843] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:55:55,852] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:55:55,859] {logging_mixin.py:115} INFO - [2022-08-04 12:55:55,859] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 12:55:55,866] {logging_mixin.py:115} INFO - [2022-08-04 12:55:55,866] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-08-04 12:55:55,866] {logging_mixin.py:115} INFO - [2022-08-04 12:55:55,866] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-08-04 12:55:55,871] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.035 seconds
+[2022-08-04 12:56:32,944] {processor.py:153} INFO - Started process (PID=66006) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:56:32,949] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-08-04 12:56:32,950] {logging_mixin.py:115} INFO - [2022-08-04 12:56:32,950] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:56:32,958] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:56:32,966] {logging_mixin.py:115} INFO - [2022-08-04 12:56:32,966] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 12:56:32,972] {logging_mixin.py:115} INFO - [2022-08-04 12:56:32,972] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-08-04 12:56:32,972] {logging_mixin.py:115} INFO - [2022-08-04 12:56:32,972] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-08-04 12:56:32,977] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.034 seconds
+[2022-08-04 12:57:11,330] {processor.py:153} INFO - Started process (PID=66059) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:57:11,335] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-08-04 12:57:11,335] {logging_mixin.py:115} INFO - [2022-08-04 12:57:11,335] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:57:11,344] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:57:11,352] {logging_mixin.py:115} INFO - [2022-08-04 12:57:11,352] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 12:57:11,359] {logging_mixin.py:115} INFO - [2022-08-04 12:57:11,359] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-08-04 12:57:11,359] {logging_mixin.py:115} INFO - [2022-08-04 12:57:11,359] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-08-04 12:57:11,365] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.036 seconds
+[2022-08-04 12:57:44,457] {processor.py:153} INFO - Started process (PID=66188) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:57:44,463] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-08-04 12:57:44,463] {logging_mixin.py:115} INFO - [2022-08-04 12:57:44,463] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:57:44,472] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:57:44,480] {logging_mixin.py:115} INFO - [2022-08-04 12:57:44,480] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 12:57:44,486] {logging_mixin.py:115} INFO - [2022-08-04 12:57:44,486] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-08-04 12:57:44,486] {logging_mixin.py:115} INFO - [2022-08-04 12:57:44,486] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-08-04 12:57:44,492] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.036 seconds
+[2022-08-04 12:58:22,011] {processor.py:153} INFO - Started process (PID=66314) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:58:22,011] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-08-04 12:58:22,012] {logging_mixin.py:115} INFO - [2022-08-04 12:58:22,012] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:58:22,020] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:58:22,028] {logging_mixin.py:115} INFO - [2022-08-04 12:58:22,028] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 12:58:22,034] {logging_mixin.py:115} INFO - [2022-08-04 12:58:22,034] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-08-04 12:58:22,034] {logging_mixin.py:115} INFO - [2022-08-04 12:58:22,034] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-08-04 12:58:22,040] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.030 seconds
+[2022-08-04 12:58:59,153] {processor.py:153} INFO - Started process (PID=66369) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:58:59,158] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-08-04 12:58:59,159] {logging_mixin.py:115} INFO - [2022-08-04 12:58:59,159] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:58:59,167] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:58:59,175] {logging_mixin.py:115} INFO - [2022-08-04 12:58:59,175] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 12:58:59,181] {logging_mixin.py:115} INFO - [2022-08-04 12:58:59,181] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-08-04 12:58:59,181] {logging_mixin.py:115} INFO - [2022-08-04 12:58:59,181] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-08-04 12:58:59,187] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.035 seconds
+[2022-08-04 12:59:37,376] {processor.py:153} INFO - Started process (PID=66479) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:59:37,381] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py for tasks to queue
+[2022-08-04 12:59:37,382] {logging_mixin.py:115} INFO - [2022-08-04 12:59:37,382] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:59:37,390] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom_args', 'example_xcom_args_with_operators']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py
+[2022-08-04 12:59:37,398] {logging_mixin.py:115} INFO - [2022-08-04 12:59:37,398] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 12:59:37,404] {logging_mixin.py:115} INFO - [2022-08-04 12:59:37,404] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args to None, run_after=None
+[2022-08-04 12:59:37,405] {logging_mixin.py:115} INFO - [2022-08-04 12:59:37,405] {dag.py:2968} INFO - Setting next_dagrun for example_xcom_args_with_operators to None, run_after=None
+[2022-08-04 12:59:37,410] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcomargs.py took 0.035 seconds
