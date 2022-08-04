@@ -1,0 +1,21 @@
+[2022-08-04 11:25:50,035] {processor.py:153} INFO - Started process (PID=54052) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-08-04 11:25:50,036] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-08-04 11:25:50,036] {logging_mixin.py:115} INFO - [2022-08-04 11:25:50,036] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-08-04 11:25:50,038] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-08-04 11:25:50,045] {logging_mixin.py:115} INFO - [2022-08-04 11:25:50,045] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:25:50,052] {logging_mixin.py:115} INFO - [2022-08-04 11:25:50,052] {dag.py:2968} INFO - Setting next_dagrun for tutorial to 2022-08-03T08:25:50.052663+00:00, run_after=2022-08-04T08:25:50.052663+00:00
+[2022-08-04 11:25:50,064] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.030 seconds
+[2022-08-04 11:26:20,844] {processor.py:153} INFO - Started process (PID=54220) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-08-04 11:26:20,849] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-08-04 11:26:20,850] {logging_mixin.py:115} INFO - [2022-08-04 11:26:20,850] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-08-04 11:26:20,854] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-08-04 11:26:20,863] {logging_mixin.py:115} INFO - [2022-08-04 11:26:20,863] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:20,872] {logging_mixin.py:115} INFO - [2022-08-04 11:26:20,872] {dag.py:2968} INFO - Setting next_dagrun for tutorial to 2022-08-03T08:26:20.872073+00:00, run_after=2022-08-04T08:26:20.872073+00:00
+[2022-08-04 11:26:20,878] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.036 seconds
+[2022-08-04 11:26:55,564] {processor.py:153} INFO - Started process (PID=54326) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-08-04 11:26:55,569] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2022-08-04 11:26:55,570] {logging_mixin.py:115} INFO - [2022-08-04 11:26:55,570] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-08-04 11:26:55,574] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py
+[2022-08-04 11:26:55,583] {logging_mixin.py:115} INFO - [2022-08-04 11:26:55,583] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:55,592] {logging_mixin.py:115} INFO - [2022-08-04 11:26:55,592] {dag.py:2968} INFO - Setting next_dagrun for tutorial to 2022-08-03T08:26:55.592365+00:00, run_after=2022-08-04T08:26:55.592365+00:00
+[2022-08-04 11:26:55,607] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial.py took 0.045 seconds

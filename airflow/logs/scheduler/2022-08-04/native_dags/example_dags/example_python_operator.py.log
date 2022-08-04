@@ -1,0 +1,21 @@
+[2022-08-04 11:25:55,169] {processor.py:153} INFO - Started process (PID=54060) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-08-04 11:25:55,169] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-08-04 11:25:55,169] {logging_mixin.py:115} INFO - [2022-08-04 11:25:55,169] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-08-04 11:25:55,177] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-08-04 11:25:55,183] {logging_mixin.py:115} INFO - [2022-08-04 11:25:55,183] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:25:55,192] {logging_mixin.py:115} INFO - [2022-08-04 11:25:55,192] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-08-04 11:25:55,205] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.037 seconds
+[2022-08-04 11:26:27,121] {processor.py:153} INFO - Started process (PID=54251) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-08-04 11:26:27,126] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-08-04 11:26:27,126] {logging_mixin.py:115} INFO - [2022-08-04 11:26:27,126] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-08-04 11:26:27,137] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-08-04 11:26:27,146] {logging_mixin.py:115} INFO - [2022-08-04 11:26:27,146] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:27,157] {logging_mixin.py:115} INFO - [2022-08-04 11:26:27,157] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-08-04 11:26:27,164] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.045 seconds
+[2022-08-04 11:27:01,830] {processor.py:153} INFO - Started process (PID=54332) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-08-04 11:27:01,836] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py for tasks to queue
+[2022-08-04 11:27:01,837] {logging_mixin.py:115} INFO - [2022-08-04 11:27:01,837] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-08-04 11:27:01,847] {processor.py:651} INFO - DAG(s) dict_keys(['example_python_operator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py
+[2022-08-04 11:27:01,855] {logging_mixin.py:115} INFO - [2022-08-04 11:27:01,855] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:27:01,865] {logging_mixin.py:115} INFO - [2022-08-04 11:27:01,865] {dag.py:2968} INFO - Setting next_dagrun for example_python_operator to None, run_after=None
+[2022-08-04 11:27:01,871] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_python_operator.py took 0.042 seconds

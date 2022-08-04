@@ -1,0 +1,21 @@
+[2022-08-04 11:25:46,169] {processor.py:153} INFO - Started process (PID=54041) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-04 11:25:46,169] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-04 11:25:46,170] {logging_mixin.py:115} INFO - [2022-08-04 11:25:46,170] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-04 11:25:46,179] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-04 11:25:46,187] {logging_mixin.py:115} INFO - [2022-08-04 11:25:46,187] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:25:46,199] {logging_mixin.py:115} INFO - [2022-08-04 11:25:46,199] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-04T08:22:00+00:00, run_after=2022-08-04T08:24:00+00:00
+[2022-08-04 11:25:46,205] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.038 seconds
+[2022-08-04 11:26:17,975] {processor.py:153} INFO - Started process (PID=54210) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-04 11:26:17,981] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-04 11:26:17,981] {logging_mixin.py:115} INFO - [2022-08-04 11:26:17,981] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-04 11:26:17,991] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-04 11:26:18,000] {logging_mixin.py:115} INFO - [2022-08-04 11:26:18,000] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:18,012] {logging_mixin.py:115} INFO - [2022-08-04 11:26:18,012] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-04T08:24:00+00:00, run_after=2022-08-04T08:26:00+00:00
+[2022-08-04 11:26:18,018] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.044 seconds
+[2022-08-04 11:26:51,662] {processor.py:153} INFO - Started process (PID=54300) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-04 11:26:51,663] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2022-08-04 11:26:51,663] {logging_mixin.py:115} INFO - [2022-08-04 11:26:51,663] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-04 11:26:51,672] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py
+[2022-08-04 11:26:51,680] {logging_mixin.py:115} INFO - [2022-08-04 11:26:51,680] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:51,692] {logging_mixin.py:115} INFO - [2022-08-04 11:26:51,691] {dag.py:2968} INFO - Setting next_dagrun for example_sla_dag to 2022-08-04T08:24:00+00:00, run_after=2022-08-04T08:26:00+00:00
+[2022-08-04 11:26:51,697] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_sla_dag.py took 0.037 seconds

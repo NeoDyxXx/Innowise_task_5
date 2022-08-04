@@ -1,0 +1,21 @@
+[2022-08-04 11:25:45,039] {processor.py:153} INFO - Started process (PID=54040) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-04 11:25:45,039] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-04 11:25:45,039] {logging_mixin.py:115} INFO - [2022-08-04 11:25:45,039] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-04 11:25:45,048] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-04 11:25:45,070] {logging_mixin.py:115} INFO - [2022-08-04 11:25:45,070] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:25:45,078] {logging_mixin.py:115} INFO - [2022-08-04 11:25:45,078] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-04 11:25:45,084] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.047 seconds
+[2022-08-04 11:26:16,845] {processor.py:153} INFO - Started process (PID=54200) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-04 11:26:16,851] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-04 11:26:16,851] {logging_mixin.py:115} INFO - [2022-08-04 11:26:16,851] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-04 11:26:16,861] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-04 11:26:16,884] {logging_mixin.py:115} INFO - [2022-08-04 11:26:16,884] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:16,891] {logging_mixin.py:115} INFO - [2022-08-04 11:26:16,891] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-04 11:26:16,897] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.054 seconds
+[2022-08-04 11:26:50,766] {processor.py:153} INFO - Started process (PID=54299) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-04 11:26:50,766] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py for tasks to queue
+[2022-08-04 11:26:50,766] {logging_mixin.py:115} INFO - [2022-08-04 11:26:50,766] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-04 11:26:50,773] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_taskflow_api_etl']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py
+[2022-08-04 11:26:50,793] {logging_mixin.py:115} INFO - [2022-08-04 11:26:50,793] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:50,800] {logging_mixin.py:115} INFO - [2022-08-04 11:26:50,800] {dag.py:2968} INFO - Setting next_dagrun for tutorial_taskflow_api_etl to None, run_after=None
+[2022-08-04 11:26:50,808] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py took 0.044 seconds

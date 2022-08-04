@@ -1,0 +1,7 @@
+#!/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/bin/python3
+import json_merge_patch.cli
+json_merge_patch.cli.main()
+
+
+
+

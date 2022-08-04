@@ -1,0 +1,14 @@
+[2022-08-04 11:26:10,570] {processor.py:153} INFO - Started process (PID=54144) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-08-04 11:26:10,570] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-08-04 11:26:10,571] {logging_mixin.py:115} INFO - [2022-08-04 11:26:10,571] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-08-04 11:26:10,576] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-08-04 11:26:10,586] {logging_mixin.py:115} INFO - [2022-08-04 11:26:10,586] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:10,594] {logging_mixin.py:115} INFO - [2022-08-04 11:26:10,594] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-08-04 11:26:10,606] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.037 seconds
+[2022-08-04 11:26:47,658] {processor.py:153} INFO - Started process (PID=54288) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-08-04 11:26:47,664] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2022-08-04 11:26:47,664] {logging_mixin.py:115} INFO - [2022-08-04 11:26:47,664] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-08-04 11:26:47,669] {processor.py:651} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py
+[2022-08-04 11:26:47,677] {logging_mixin.py:115} INFO - [2022-08-04 11:26:47,677] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:47,685] {logging_mixin.py:115} INFO - [2022-08-04 11:26:47,685] {dag.py:2968} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2022-08-04 11:26:47,694] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_complex.py took 0.037 seconds

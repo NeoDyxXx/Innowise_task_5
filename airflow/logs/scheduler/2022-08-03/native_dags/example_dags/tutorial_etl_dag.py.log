@@ -1,0 +1,287 @@
+[2022-08-04 00:00:39,901] {processor.py:153} INFO - Started process (PID=44893) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:00:39,902] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:00:39,902] {logging_mixin.py:115} INFO - [2022-08-04 00:00:39,902] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:00:39,907] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:00:39,918] {logging_mixin.py:115} INFO - [2022-08-04 00:00:39,918] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:00:39,928] {logging_mixin.py:115} INFO - [2022-08-04 00:00:39,928] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:00:39,942] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.042 seconds
+[2022-08-04 00:01:11,326] {processor.py:153} INFO - Started process (PID=45017) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:01:11,332] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:01:11,332] {logging_mixin.py:115} INFO - [2022-08-04 00:01:11,332] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:01:11,336] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:01:11,347] {logging_mixin.py:115} INFO - [2022-08-04 00:01:11,346] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:01:11,357] {logging_mixin.py:115} INFO - [2022-08-04 00:01:11,357] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:01:11,363] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.039 seconds
+[2022-08-04 00:01:47,363] {processor.py:153} INFO - Started process (PID=45105) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:01:47,369] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:01:47,369] {logging_mixin.py:115} INFO - [2022-08-04 00:01:47,369] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:01:47,374] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:01:47,384] {logging_mixin.py:115} INFO - [2022-08-04 00:01:47,384] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:01:47,393] {logging_mixin.py:115} INFO - [2022-08-04 00:01:47,393] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:01:47,402] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.041 seconds
+[2022-08-04 00:02:22,192] {processor.py:153} INFO - Started process (PID=45268) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:02:22,192] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:02:22,192] {logging_mixin.py:115} INFO - [2022-08-04 00:02:22,192] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:02:22,196] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:02:22,204] {logging_mixin.py:115} INFO - [2022-08-04 00:02:22,204] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:02:22,212] {logging_mixin.py:115} INFO - [2022-08-04 00:02:22,212] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:02:22,218] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2022-08-04 00:02:57,744] {processor.py:153} INFO - Started process (PID=45351) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:02:57,750] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:02:57,750] {logging_mixin.py:115} INFO - [2022-08-04 00:02:57,750] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:02:57,755] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:02:57,763] {logging_mixin.py:115} INFO - [2022-08-04 00:02:57,763] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:02:57,771] {logging_mixin.py:115} INFO - [2022-08-04 00:02:57,771] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:02:57,780] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2022-08-04 00:03:31,448] {processor.py:153} INFO - Started process (PID=45404) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:03:31,453] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:03:31,454] {logging_mixin.py:115} INFO - [2022-08-04 00:03:31,454] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:03:31,459] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:03:31,467] {logging_mixin.py:115} INFO - [2022-08-04 00:03:31,467] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:03:31,476] {logging_mixin.py:115} INFO - [2022-08-04 00:03:31,476] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:03:31,482] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.036 seconds
+[2022-08-04 00:04:06,872] {processor.py:153} INFO - Started process (PID=45480) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:04:06,878] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:04:06,878] {logging_mixin.py:115} INFO - [2022-08-04 00:04:06,878] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:04:06,883] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:04:06,891] {logging_mixin.py:115} INFO - [2022-08-04 00:04:06,891] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:04:06,900] {logging_mixin.py:115} INFO - [2022-08-04 00:04:06,900] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:04:06,906] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.035 seconds
+[2022-08-04 00:04:40,855] {processor.py:153} INFO - Started process (PID=45532) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:04:40,860] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:04:40,861] {logging_mixin.py:115} INFO - [2022-08-04 00:04:40,861] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:04:40,866] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:04:40,874] {logging_mixin.py:115} INFO - [2022-08-04 00:04:40,874] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:04:40,883] {logging_mixin.py:115} INFO - [2022-08-04 00:04:40,883] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:04:40,889] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.036 seconds
+[2022-08-04 00:05:14,252] {processor.py:153} INFO - Started process (PID=45691) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:05:14,253] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:05:14,253] {logging_mixin.py:115} INFO - [2022-08-04 00:05:14,253] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:05:14,256] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:05:14,264] {logging_mixin.py:115} INFO - [2022-08-04 00:05:14,264] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:05:14,273] {logging_mixin.py:115} INFO - [2022-08-04 00:05:14,273] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:05:14,279] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2022-08-04 00:05:48,077] {processor.py:153} INFO - Started process (PID=45799) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:05:48,082] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:05:48,083] {logging_mixin.py:115} INFO - [2022-08-04 00:05:48,083] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:05:48,087] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:05:48,096] {logging_mixin.py:115} INFO - [2022-08-04 00:05:48,096] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:05:48,105] {logging_mixin.py:115} INFO - [2022-08-04 00:05:48,105] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:05:48,113] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2022-08-04 00:06:22,648] {processor.py:153} INFO - Started process (PID=45900) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:06:22,653] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:06:22,653] {logging_mixin.py:115} INFO - [2022-08-04 00:06:22,653] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:06:22,659] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:06:22,671] {logging_mixin.py:115} INFO - [2022-08-04 00:06:22,671] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:06:22,682] {logging_mixin.py:115} INFO - [2022-08-04 00:06:22,682] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:06:22,691] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.045 seconds
+[2022-08-04 00:06:56,749] {processor.py:153} INFO - Started process (PID=45969) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:06:56,755] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:06:56,755] {logging_mixin.py:115} INFO - [2022-08-04 00:06:56,755] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:06:56,760] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:06:56,770] {logging_mixin.py:115} INFO - [2022-08-04 00:06:56,769] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:06:56,779] {logging_mixin.py:115} INFO - [2022-08-04 00:06:56,779] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:06:56,789] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.041 seconds
+[2022-08-04 00:07:30,454] {processor.py:153} INFO - Started process (PID=46044) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:07:30,460] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:07:30,460] {logging_mixin.py:115} INFO - [2022-08-04 00:07:30,460] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:07:30,465] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:07:30,476] {logging_mixin.py:115} INFO - [2022-08-04 00:07:30,476] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:07:30,487] {logging_mixin.py:115} INFO - [2022-08-04 00:07:30,487] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:07:30,498] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.045 seconds
+[2022-08-04 00:08:03,005] {processor.py:153} INFO - Started process (PID=46123) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:08:03,010] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:08:03,010] {logging_mixin.py:115} INFO - [2022-08-04 00:08:03,010] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:08:03,015] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:08:03,023] {logging_mixin.py:115} INFO - [2022-08-04 00:08:03,023] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:08:03,032] {logging_mixin.py:115} INFO - [2022-08-04 00:08:03,032] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:08:03,041] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2022-08-04 00:08:37,917] {processor.py:153} INFO - Started process (PID=46193) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:08:37,922] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:08:37,923] {logging_mixin.py:115} INFO - [2022-08-04 00:08:37,923] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:08:37,927] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:08:37,936] {logging_mixin.py:115} INFO - [2022-08-04 00:08:37,936] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:08:37,946] {logging_mixin.py:115} INFO - [2022-08-04 00:08:37,946] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:08:37,955] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2022-08-04 00:09:11,137] {processor.py:153} INFO - Started process (PID=46304) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:09:11,142] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:09:11,143] {logging_mixin.py:115} INFO - [2022-08-04 00:09:11,142] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:09:11,147] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:09:11,156] {logging_mixin.py:115} INFO - [2022-08-04 00:09:11,156] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:09:11,164] {logging_mixin.py:115} INFO - [2022-08-04 00:09:11,164] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:09:11,172] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2022-08-04 00:09:49,954] {processor.py:153} INFO - Started process (PID=46393) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:09:49,959] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:09:49,960] {logging_mixin.py:115} INFO - [2022-08-04 00:09:49,960] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:09:49,966] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:09:49,975] {logging_mixin.py:115} INFO - [2022-08-04 00:09:49,975] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:09:49,984] {logging_mixin.py:115} INFO - [2022-08-04 00:09:49,984] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:09:49,995] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.043 seconds
+[2022-08-04 00:10:21,805] {processor.py:153} INFO - Started process (PID=46485) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:10:21,811] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:10:21,811] {logging_mixin.py:115} INFO - [2022-08-04 00:10:21,811] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:10:21,816] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:10:21,824] {logging_mixin.py:115} INFO - [2022-08-04 00:10:21,824] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:10:21,833] {logging_mixin.py:115} INFO - [2022-08-04 00:10:21,833] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:10:21,841] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2022-08-04 00:10:56,497] {processor.py:153} INFO - Started process (PID=46560) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:10:56,503] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:10:56,503] {logging_mixin.py:115} INFO - [2022-08-04 00:10:56,503] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:10:56,507] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:10:56,515] {logging_mixin.py:115} INFO - [2022-08-04 00:10:56,515] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:10:56,523] {logging_mixin.py:115} INFO - [2022-08-04 00:10:56,523] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:10:56,531] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.035 seconds
+[2022-08-04 00:11:29,331] {processor.py:153} INFO - Started process (PID=46631) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:11:29,336] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:11:29,336] {logging_mixin.py:115} INFO - [2022-08-04 00:11:29,336] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:11:29,341] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:11:29,349] {logging_mixin.py:115} INFO - [2022-08-04 00:11:29,348] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:11:29,357] {logging_mixin.py:115} INFO - [2022-08-04 00:11:29,357] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:11:29,364] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.035 seconds
+[2022-08-04 00:12:04,288] {processor.py:153} INFO - Started process (PID=46692) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:12:04,293] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:12:04,294] {logging_mixin.py:115} INFO - [2022-08-04 00:12:04,294] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:12:04,299] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:12:04,308] {logging_mixin.py:115} INFO - [2022-08-04 00:12:04,308] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:12:04,317] {logging_mixin.py:115} INFO - [2022-08-04 00:12:04,317] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:12:04,325] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.039 seconds
+[2022-08-04 00:12:38,396] {processor.py:153} INFO - Started process (PID=46757) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:12:38,402] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:12:38,402] {logging_mixin.py:115} INFO - [2022-08-04 00:12:38,402] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:12:38,407] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:12:38,415] {logging_mixin.py:115} INFO - [2022-08-04 00:12:38,415] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:12:38,424] {logging_mixin.py:115} INFO - [2022-08-04 00:12:38,424] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:12:38,432] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2022-08-04 00:13:12,106] {processor.py:153} INFO - Started process (PID=46821) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:13:12,111] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:13:12,112] {logging_mixin.py:115} INFO - [2022-08-04 00:13:12,112] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:13:12,117] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:13:12,127] {logging_mixin.py:115} INFO - [2022-08-04 00:13:12,127] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:13:12,136] {logging_mixin.py:115} INFO - [2022-08-04 00:13:12,136] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:13:12,145] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2022-08-04 00:13:46,800] {processor.py:153} INFO - Started process (PID=46927) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:13:46,805] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:13:46,806] {logging_mixin.py:115} INFO - [2022-08-04 00:13:46,806] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:13:46,811] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:13:46,820] {logging_mixin.py:115} INFO - [2022-08-04 00:13:46,820] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:13:46,828] {logging_mixin.py:115} INFO - [2022-08-04 00:13:46,828] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:13:46,836] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.037 seconds
+[2022-08-04 00:14:20,032] {processor.py:153} INFO - Started process (PID=47040) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:14:20,032] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:14:20,032] {logging_mixin.py:115} INFO - [2022-08-04 00:14:20,032] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:14:20,036] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:14:20,046] {logging_mixin.py:115} INFO - [2022-08-04 00:14:20,046] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:14:20,057] {logging_mixin.py:115} INFO - [2022-08-04 00:14:20,057] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:14:20,065] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.035 seconds
+[2022-08-04 00:14:54,955] {processor.py:153} INFO - Started process (PID=47126) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:14:54,961] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:14:54,961] {logging_mixin.py:115} INFO - [2022-08-04 00:14:54,961] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:14:54,966] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:14:54,977] {logging_mixin.py:115} INFO - [2022-08-04 00:14:54,977] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:14:54,988] {logging_mixin.py:115} INFO - [2022-08-04 00:14:54,988] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:14:54,997] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2022-08-04 00:15:32,180] {processor.py:153} INFO - Started process (PID=47231) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:15:32,186] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:15:32,186] {logging_mixin.py:115} INFO - [2022-08-04 00:15:32,186] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:15:32,191] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:15:32,201] {logging_mixin.py:115} INFO - [2022-08-04 00:15:32,201] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:15:32,211] {logging_mixin.py:115} INFO - [2022-08-04 00:15:32,211] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:15:32,219] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2022-08-04 00:16:06,377] {processor.py:153} INFO - Started process (PID=47271) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:16:06,382] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:16:06,383] {logging_mixin.py:115} INFO - [2022-08-04 00:16:06,383] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:16:06,387] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:16:06,396] {logging_mixin.py:115} INFO - [2022-08-04 00:16:06,396] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:16:06,407] {logging_mixin.py:115} INFO - [2022-08-04 00:16:06,407] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:16:06,414] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.039 seconds
+[2022-08-04 00:16:40,197] {processor.py:153} INFO - Started process (PID=47366) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:16:40,203] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:16:40,203] {logging_mixin.py:115} INFO - [2022-08-04 00:16:40,203] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:16:40,208] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:16:40,217] {logging_mixin.py:115} INFO - [2022-08-04 00:16:40,217] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:16:40,228] {logging_mixin.py:115} INFO - [2022-08-04 00:16:40,228] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:16:40,235] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.039 seconds
+[2022-08-04 00:17:15,455] {processor.py:153} INFO - Started process (PID=47458) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:17:15,460] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:17:15,460] {logging_mixin.py:115} INFO - [2022-08-04 00:17:15,460] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:17:15,465] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:17:15,475] {logging_mixin.py:115} INFO - [2022-08-04 00:17:15,475] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:17:15,485] {logging_mixin.py:115} INFO - [2022-08-04 00:17:15,485] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:17:15,492] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.039 seconds
+[2022-08-04 00:17:56,214] {processor.py:153} INFO - Started process (PID=47556) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:17:56,214] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:17:56,215] {logging_mixin.py:115} INFO - [2022-08-04 00:17:56,215] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:17:56,219] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:17:56,227] {logging_mixin.py:115} INFO - [2022-08-04 00:17:56,227] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:17:56,238] {logging_mixin.py:115} INFO - [2022-08-04 00:17:56,238] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:17:56,244] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.032 seconds
+[2022-08-04 00:18:29,462] {processor.py:153} INFO - Started process (PID=47596) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:18:29,467] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:18:29,468] {logging_mixin.py:115} INFO - [2022-08-04 00:18:29,468] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:18:29,473] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:18:29,482] {logging_mixin.py:115} INFO - [2022-08-04 00:18:29,482] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:18:29,495] {logging_mixin.py:115} INFO - [2022-08-04 00:18:29,495] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:18:29,503] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2022-08-04 00:19:04,277] {processor.py:153} INFO - Started process (PID=47756) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:19:04,282] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:19:04,283] {logging_mixin.py:115} INFO - [2022-08-04 00:19:04,283] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:19:04,287] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:19:04,295] {logging_mixin.py:115} INFO - [2022-08-04 00:19:04,295] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:19:04,305] {logging_mixin.py:115} INFO - [2022-08-04 00:19:04,305] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:19:04,311] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.036 seconds
+[2022-08-04 00:19:38,456] {processor.py:153} INFO - Started process (PID=47855) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:19:38,462] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:19:38,463] {logging_mixin.py:115} INFO - [2022-08-04 00:19:38,463] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:19:38,467] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:19:38,476] {logging_mixin.py:115} INFO - [2022-08-04 00:19:38,476] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:19:38,486] {logging_mixin.py:115} INFO - [2022-08-04 00:19:38,486] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:19:38,493] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2022-08-04 00:20:12,151] {processor.py:153} INFO - Started process (PID=47951) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:20:12,156] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:20:12,157] {logging_mixin.py:115} INFO - [2022-08-04 00:20:12,157] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:20:12,161] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:20:12,171] {logging_mixin.py:115} INFO - [2022-08-04 00:20:12,171] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:20:12,184] {logging_mixin.py:115} INFO - [2022-08-04 00:20:12,184] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:20:12,192] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.044 seconds
+[2022-08-04 00:20:45,711] {processor.py:153} INFO - Started process (PID=48014) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:20:45,711] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:20:45,712] {logging_mixin.py:115} INFO - [2022-08-04 00:20:45,712] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:20:45,716] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:20:45,724] {logging_mixin.py:115} INFO - [2022-08-04 00:20:45,724] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:20:45,734] {logging_mixin.py:115} INFO - [2022-08-04 00:20:45,734] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:20:45,742] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.033 seconds
+[2022-08-04 00:21:17,664] {processor.py:153} INFO - Started process (PID=48130) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:21:17,669] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:21:17,670] {logging_mixin.py:115} INFO - [2022-08-04 00:21:17,670] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:21:17,676] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:21:17,689] {logging_mixin.py:115} INFO - [2022-08-04 00:21:17,688] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:21:17,705] {logging_mixin.py:115} INFO - [2022-08-04 00:21:17,705] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:21:17,715] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2022-08-04 00:21:52,475] {processor.py:153} INFO - Started process (PID=48172) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:21:52,480] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:21:52,481] {logging_mixin.py:115} INFO - [2022-08-04 00:21:52,480] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:21:52,486] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:21:52,494] {logging_mixin.py:115} INFO - [2022-08-04 00:21:52,494] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:21:52,504] {logging_mixin.py:115} INFO - [2022-08-04 00:21:52,504] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:21:52,510] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.038 seconds
+[2022-08-04 00:22:27,938] {processor.py:153} INFO - Started process (PID=48250) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:22:27,938] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:22:27,939] {logging_mixin.py:115} INFO - [2022-08-04 00:22:27,938] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:22:27,942] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:22:27,950] {logging_mixin.py:115} INFO - [2022-08-04 00:22:27,950] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:22:27,960] {logging_mixin.py:115} INFO - [2022-08-04 00:22:27,960] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:22:27,967] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2022-08-04 00:23:03,234] {processor.py:153} INFO - Started process (PID=48300) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:23:03,239] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:23:03,240] {logging_mixin.py:115} INFO - [2022-08-04 00:23:03,240] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:23:03,245] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:23:03,253] {logging_mixin.py:115} INFO - [2022-08-04 00:23:03,253] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:23:03,263] {logging_mixin.py:115} INFO - [2022-08-04 00:23:03,263] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:23:03,272] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.040 seconds
+[2022-08-04 00:23:54,157] {processor.py:153} INFO - Started process (PID=48429) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:23:54,162] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2022-08-04 00:23:54,163] {logging_mixin.py:115} INFO - [2022-08-04 00:23:54,163] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:23:54,167] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2022-08-04 00:23:54,175] {logging_mixin.py:115} INFO - [2022-08-04 00:23:54,175] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 00:23:54,184] {logging_mixin.py:115} INFO - [2022-08-04 00:23:54,184] {dag.py:2968} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2022-08-04 00:23:54,190] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.035 seconds

@@ -1,0 +1,21 @@
+[2022-08-04 11:25:55,035] {processor.py:153} INFO - Started process (PID=54059) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-08-04 11:25:55,035] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-08-04 11:25:55,036] {logging_mixin.py:115} INFO - [2022-08-04 11:25:55,036] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-08-04 11:25:55,045] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-08-04 11:25:55,065] {logging_mixin.py:115} INFO - [2022-08-04 11:25:55,065] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:25:55,072] {logging_mixin.py:115} INFO - [2022-08-04 11:25:55,072] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-08-04 11:25:55,078] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.044 seconds
+[2022-08-04 11:26:25,979] {processor.py:153} INFO - Started process (PID=54250) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-08-04 11:26:25,985] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-08-04 11:26:25,986] {logging_mixin.py:115} INFO - [2022-08-04 11:26:25,985] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-08-04 11:26:25,999] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-08-04 11:26:26,029] {logging_mixin.py:115} INFO - [2022-08-04 11:26:26,029] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:26,040] {logging_mixin.py:115} INFO - [2022-08-04 11:26:26,040] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-08-04 11:26:26,050] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.072 seconds
+[2022-08-04 11:27:00,896] {processor.py:153} INFO - Started process (PID=54331) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-08-04 11:27:00,902] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2022-08-04 11:27:00,902] {logging_mixin.py:115} INFO - [2022-08-04 11:27:00,902] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-08-04 11:27:00,915] {processor.py:651} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py
+[2022-08-04 11:27:00,938] {logging_mixin.py:115} INFO - [2022-08-04 11:27:00,938] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:27:00,945] {logging_mixin.py:115} INFO - [2022-08-04 11:27:00,945] {dag.py:2968} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2022-08-04 11:27:00,952] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_dag_decorator.py took 0.058 seconds

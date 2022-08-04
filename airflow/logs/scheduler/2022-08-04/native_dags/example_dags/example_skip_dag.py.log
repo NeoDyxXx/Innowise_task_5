@@ -1,0 +1,21 @@
+[2022-08-04 11:25:42,621] {processor.py:153} INFO - Started process (PID=54037) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-08-04 11:25:42,622] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-08-04 11:25:42,622] {logging_mixin.py:115} INFO - [2022-08-04 11:25:42,622] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-08-04 11:25:42,625] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-08-04 11:25:42,633] {logging_mixin.py:115} INFO - [2022-08-04 11:25:42,633] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:25:42,642] {logging_mixin.py:115} INFO - [2022-08-04 11:25:42,642] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-08-03T08:25:42.642338+00:00, run_after=2022-08-04T08:25:42.642338+00:00
+[2022-08-04 11:25:42,654] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.034 seconds
+[2022-08-04 11:26:14,367] {processor.py:153} INFO - Started process (PID=54197) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-08-04 11:26:14,373] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-08-04 11:26:14,373] {logging_mixin.py:115} INFO - [2022-08-04 11:26:14,373] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-08-04 11:26:14,377] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-08-04 11:26:14,385] {logging_mixin.py:115} INFO - [2022-08-04 11:26:14,385] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:14,394] {logging_mixin.py:115} INFO - [2022-08-04 11:26:14,394] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-08-03T08:26:14.394017+00:00, run_after=2022-08-04T08:26:14.394017+00:00
+[2022-08-04 11:26:14,401] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.035 seconds
+[2022-08-04 11:26:46,526] {processor.py:153} INFO - Started process (PID=54287) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-08-04 11:26:46,532] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2022-08-04 11:26:46,532] {logging_mixin.py:115} INFO - [2022-08-04 11:26:46,532] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-08-04 11:26:46,534] {processor.py:651} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py
+[2022-08-04 11:26:46,541] {logging_mixin.py:115} INFO - [2022-08-04 11:26:46,541] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:46,549] {logging_mixin.py:115} INFO - [2022-08-04 11:26:46,548] {dag.py:2968} INFO - Setting next_dagrun for example_skip_dag to 2022-08-03T08:26:46.548848+00:00, run_after=2022-08-04T08:26:46.548848+00:00
+[2022-08-04 11:26:46,557] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_skip_dag.py took 0.032 seconds

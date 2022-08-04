@@ -1,0 +1,14 @@
+[2022-08-04 11:26:10,298] {processor.py:153} INFO - Started process (PID=54143) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-08-04 11:26:10,298] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-08-04 11:26:10,299] {logging_mixin.py:115} INFO - [2022-08-04 11:26:10,299] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-08-04 11:26:10,305] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-08-04 11:26:10,314] {logging_mixin.py:115} INFO - [2022-08-04 11:26:10,314] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:10,324] {logging_mixin.py:115} INFO - [2022-08-04 11:26:10,324] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-08-03T00:00:00+00:00, run_after=2022-08-04T00:00:00+00:00
+[2022-08-04 11:26:10,338] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.041 seconds
+[2022-08-04 11:26:43,654] {processor.py:153} INFO - Started process (PID=54283) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-08-04 11:26:43,659] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py for tasks to queue
+[2022-08-04 11:26:43,660] {logging_mixin.py:115} INFO - [2022-08-04 11:26:43,660] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-08-04 11:26:43,665] {processor.py:651} INFO - DAG(s) dict_keys(['example_bash_operator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py
+[2022-08-04 11:26:43,671] {logging_mixin.py:115} INFO - [2022-08-04 11:26:43,671] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:43,679] {logging_mixin.py:115} INFO - [2022-08-04 11:26:43,679] {dag.py:2968} INFO - Setting next_dagrun for example_bash_operator to 2022-08-03T00:00:00+00:00, run_after=2022-08-04T00:00:00+00:00
+[2022-08-04 11:26:43,692] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_bash_operator.py took 0.038 seconds

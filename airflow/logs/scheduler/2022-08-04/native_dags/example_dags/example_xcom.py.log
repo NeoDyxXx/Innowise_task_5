@@ -1,0 +1,21 @@
+[2022-08-04 11:25:58,553] {processor.py:153} INFO - Started process (PID=54074) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-08-04 11:25:58,553] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-08-04 11:25:58,553] {logging_mixin.py:115} INFO - [2022-08-04 11:25:58,553] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-08-04 11:25:58,561] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-08-04 11:25:58,581] {logging_mixin.py:115} INFO - [2022-08-04 11:25:58,581] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:25:58,588] {logging_mixin.py:115} INFO - [2022-08-04 11:25:58,588] {dag.py:2968} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-08-04 11:25:58,599] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.047 seconds
+[2022-08-04 11:26:30,510] {processor.py:153} INFO - Started process (PID=54254) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-08-04 11:26:30,515] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-08-04 11:26:30,516] {logging_mixin.py:115} INFO - [2022-08-04 11:26:30,516] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-08-04 11:26:30,526] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-08-04 11:26:30,551] {logging_mixin.py:115} INFO - [2022-08-04 11:26:30,551] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:30,558] {logging_mixin.py:115} INFO - [2022-08-04 11:26:30,558] {dag.py:2968} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-08-04 11:26:30,565] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.057 seconds
+[2022-08-04 11:27:05,226] {processor.py:153} INFO - Started process (PID=54335) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-08-04 11:27:05,231] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2022-08-04 11:27:05,232] {logging_mixin.py:115} INFO - [2022-08-04 11:27:05,231] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-08-04 11:27:05,242] {processor.py:651} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py
+[2022-08-04 11:27:05,267] {logging_mixin.py:115} INFO - [2022-08-04 11:27:05,267] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:27:05,275] {logging_mixin.py:115} INFO - [2022-08-04 11:27:05,275] {dag.py:2968} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2022-08-04 11:27:05,283] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_xcom.py took 0.059 seconds

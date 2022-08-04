@@ -1,0 +1,42 @@
+[2022-08-04 00:23:35,516] {processor.py:153} INFO - Started process (PID=48361) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+[2022-08-04 00:23:35,516] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py for tasks to queue
+[2022-08-04 00:23:35,516] {logging_mixin.py:115} INFO - [2022-08-04 00:23:35,516] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+[2022-08-04 00:23:35,521] {logging_mixin.py:115} INFO - [2022-08-04 00:23:35,520] {dagbag.py:321} ERROR - Failed to import: /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+Traceback (most recent call last):
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py", line 5, in <module>
+    from mongo_hook import MongoHook
+ModuleNotFoundError: No module named 'mongo_hook'
+[2022-08-04 00:23:35,521] {processor.py:653} WARNING - No viable dags retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+[2022-08-04 00:23:35,530] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py took 0.017 seconds
+[2022-08-04 00:24:07,309] {processor.py:153} INFO - Started process (PID=48476) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+[2022-08-04 00:24:07,314] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py for tasks to queue
+[2022-08-04 00:24:07,315] {logging_mixin.py:115} INFO - [2022-08-04 00:24:07,315] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+[2022-08-04 00:24:07,318] {logging_mixin.py:115} INFO - [2022-08-04 00:24:07,318] {dagbag.py:321} ERROR - Failed to import: /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+Traceback (most recent call last):
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py", line 5, in <module>
+    from mongo_hook import MongoHook
+ModuleNotFoundError: No module named 'mongo_hook'
+[2022-08-04 00:24:07,318] {processor.py:653} WARNING - No viable dags retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+[2022-08-04 00:24:07,328] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py took 0.021 seconds
+[2022-08-04 00:24:23,463] {processor.py:153} INFO - Started process (PID=48516) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+[2022-08-04 00:24:23,464] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py for tasks to queue
+[2022-08-04 00:24:23,464] {logging_mixin.py:115} INFO - [2022-08-04 00:24:23,464] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+[2022-08-04 00:24:23,467] {logging_mixin.py:115} INFO - [2022-08-04 00:24:23,467] {dagbag.py:321} ERROR - Failed to import: /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+Traceback (most recent call last):
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/models/dagbag.py", line 318, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 848, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py", line 5, in <module>
+    from mongo_hook import MongoHook
+ModuleNotFoundError: No module named 'mongo_hook'
+[2022-08-04 00:24:23,468] {processor.py:653} WARNING - No viable dags retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py
+[2022-08-04 00:24:23,476] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/Innowise_task/task_dag.py took 0.015 seconds

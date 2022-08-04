@@ -1,0 +1,36 @@
+[2022-08-04 11:25:52,294] {processor.py:153} INFO - Started process (PID=54056) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-08-04 11:25:52,294] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2022-08-04 11:25:52,294] {logging_mixin.py:115} INFO - [2022-08-04 11:25:52,294] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-08-04 11:25:52,303] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-08-04 11:25:52,311] {logging_mixin.py:115} INFO - [2022-08-04 11:25:52,311] {dag.py:2420} INFO - Sync 3 DAGs
+[2022-08-04 11:25:52,319] {logging_mixin.py:115} INFO - [2022-08-04 11:25:52,319] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2022-08-04 11:25:52,319] {logging_mixin.py:115} INFO - [2022-08-04 11:25:52,319] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2022-08-04 11:25:52,319] {logging_mixin.py:115} INFO - [2022-08-04 11:25:52,319] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2022-08-04 11:25:52,321] {logging_mixin.py:115} INFO - [2022-08-04 11:25:52,321] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 11:25:52,324] {logging_mixin.py:115} INFO - [2022-08-04 11:25:52,324] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2022-08-04 11:25:52,324] {logging_mixin.py:115} INFO - [2022-08-04 11:25:52,324] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2022-08-04 11:25:52,335] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py took 0.042 seconds
+[2022-08-04 11:26:23,111] {processor.py:153} INFO - Started process (PID=54229) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-08-04 11:26:23,116] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2022-08-04 11:26:23,116] {logging_mixin.py:115} INFO - [2022-08-04 11:26:23,116] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-08-04 11:26:23,128] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-08-04 11:26:23,140] {logging_mixin.py:115} INFO - [2022-08-04 11:26:23,140] {dag.py:2420} INFO - Sync 3 DAGs
+[2022-08-04 11:26:23,150] {logging_mixin.py:115} INFO - [2022-08-04 11:26:23,150] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2022-08-04 11:26:23,150] {logging_mixin.py:115} INFO - [2022-08-04 11:26:23,150] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2022-08-04 11:26:23,150] {logging_mixin.py:115} INFO - [2022-08-04 11:26:23,150] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2022-08-04 11:26:23,153] {logging_mixin.py:115} INFO - [2022-08-04 11:26:23,153] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 11:26:23,159] {logging_mixin.py:115} INFO - [2022-08-04 11:26:23,159] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2022-08-04 11:26:23,159] {logging_mixin.py:115} INFO - [2022-08-04 11:26:23,159] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2022-08-04 11:26:23,165] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py took 0.057 seconds
+[2022-08-04 11:26:57,832] {processor.py:153} INFO - Started process (PID=54328) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-08-04 11:26:57,837] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2022-08-04 11:26:57,838] {logging_mixin.py:115} INFO - [2022-08-04 11:26:57,837] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-08-04 11:26:57,849] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py
+[2022-08-04 11:26:57,859] {logging_mixin.py:115} INFO - [2022-08-04 11:26:57,859] {dag.py:2420} INFO - Sync 3 DAGs
+[2022-08-04 11:26:57,867] {logging_mixin.py:115} INFO - [2022-08-04 11:26:57,867] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2022-08-04 11:26:57,867] {logging_mixin.py:115} INFO - [2022-08-04 11:26:57,867] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2022-08-04 11:26:57,867] {logging_mixin.py:115} INFO - [2022-08-04 11:26:57,867] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2022-08-04 11:26:57,870] {logging_mixin.py:115} INFO - [2022-08-04 11:26:57,870] {dag.py:2420} INFO - Sync 2 DAGs
+[2022-08-04 11:26:57,873] {logging_mixin.py:115} INFO - [2022-08-04 11:26:57,873] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2022-08-04 11:26:57,873] {logging_mixin.py:115} INFO - [2022-08-04 11:26:57,873] {dag.py:2968} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2022-08-04 11:26:57,878] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_subdag_operator.py took 0.048 seconds

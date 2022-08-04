@@ -1,0 +1,21 @@
+[2022-08-04 11:25:56,302] {processor.py:153} INFO - Started process (PID=54061) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-08-04 11:25:56,302] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-08-04 11:25:56,302] {logging_mixin.py:115} INFO - [2022-08-04 11:25:56,302] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-08-04 11:25:56,304] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-08-04 11:25:56,311] {logging_mixin.py:115} INFO - [2022-08-04 11:25:56,310] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:25:56,318] {logging_mixin.py:115} INFO - [2022-08-04 11:25:56,318] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-08-04T04:25:56.318643+00:00, run_after=2022-08-04T08:25:56.318643+00:00
+[2022-08-04 11:25:56,330] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2022-08-04 11:26:28,252] {processor.py:153} INFO - Started process (PID=54252) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-08-04 11:26:28,257] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-08-04 11:26:28,258] {logging_mixin.py:115} INFO - [2022-08-04 11:26:28,258] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-08-04 11:26:28,262] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-08-04 11:26:28,272] {logging_mixin.py:115} INFO - [2022-08-04 11:26:28,272] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:26:28,283] {logging_mixin.py:115} INFO - [2022-08-04 11:26:28,283] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-08-04T04:26:28.282908+00:00, run_after=2022-08-04T08:26:28.282908+00:00
+[2022-08-04 11:26:28,290] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.040 seconds
+[2022-08-04 11:27:02,968] {processor.py:153} INFO - Started process (PID=54333) to work on /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-08-04 11:27:02,973] {processor.py:641} INFO - Processing file /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-08-04 11:27:02,974] {logging_mixin.py:115} INFO - [2022-08-04 11:27:02,974] {dagbag.py:508} INFO - Filling up the DagBag from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-08-04 11:27:02,977] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-08-04 11:27:02,986] {logging_mixin.py:115} INFO - [2022-08-04 11:27:02,986] {dag.py:2420} INFO - Sync 1 DAGs
+[2022-08-04 11:27:02,995] {logging_mixin.py:115} INFO - [2022-08-04 11:27:02,995] {dag.py:2968} INFO - Setting next_dagrun for latest_only to 2022-08-04T04:27:02.995517+00:00, run_after=2022-08-04T08:27:02.995517+00:00
+[2022-08-04 11:27:03,002] {processor.py:161} INFO - Processing /home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.036 seconds
