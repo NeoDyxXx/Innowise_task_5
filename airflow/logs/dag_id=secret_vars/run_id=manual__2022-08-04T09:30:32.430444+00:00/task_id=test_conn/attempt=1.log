@@ -1,0 +1,348 @@
+[2022-08-04 12:30:39,135] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: secret_vars.test_conn manual__2022-08-04T09:30:32.430444+00:00 [queued]>
+[2022-08-04 12:30:39,138] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: secret_vars.test_conn manual__2022-08-04T09:30:32.430444+00:00 [queued]>
+[2022-08-04 12:30:39,138] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-04 12:30:39,138] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-08-04 12:30:39,138] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-04 12:30:39,144] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): test_conn> on 2022-08-04 09:30:32.430444+00:00
+[2022-08-04 12:30:39,146] {standard_task_runner.py:52} INFO - Started process 62618 to run task
+[2022-08-04 12:30:39,147] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'secret_vars', 'test_conn', 'manual__2022-08-04T09:30:32.430444+00:00', '--job-id', '47', '--raw', '--subdir', 'DAGS_FOLDER/task_dag.py', '--cfg-path', '/tmp/tmp86aqhmrn', '--error-file', '/tmp/tmphlyp9b6z']
+[2022-08-04 12:30:39,148] {standard_task_runner.py:80} INFO - Job 47: Subtask test_conn
+[2022-08-04 12:30:39,167] {task_command.py:371} INFO - Running <TaskInstance: secret_vars.test_conn manual__2022-08-04T09:30:32.430444+00:00 [running]> on host ndx-Victus
+[2022-08-04 12:30:39,188] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=secret_vars
+AIRFLOW_CTX_TASK_ID=test_conn
+AIRFLOW_CTX_EXECUTION_DATE=2022-08-04T09:30:32.430444+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-08-04T09:30:32.430444+00:00
+[2022-08-04 12:30:39,190] {base.py:68} INFO - Using connection ID 'mongo_test_hook' for task execution.
+[2022-08-04 12:30:40,212] {logging_mixin.py:115} INFO - Replace 0
+[2022-08-04 12:30:40,297] {logging_mixin.py:115} INFO - Replace 100
+[2022-08-04 12:30:40,378] {logging_mixin.py:115} INFO - Replace 200
+[2022-08-04 12:30:40,500] {logging_mixin.py:115} INFO - Replace 300
+[2022-08-04 12:30:40,616] {logging_mixin.py:115} INFO - Replace 400
+[2022-08-04 12:30:40,726] {logging_mixin.py:115} INFO - Replace 500
+[2022-08-04 12:30:40,838] {logging_mixin.py:115} INFO - Replace 600
+[2022-08-04 12:30:40,959] {logging_mixin.py:115} INFO - Replace 700
+[2022-08-04 12:30:41,078] {logging_mixin.py:115} INFO - Replace 800
+[2022-08-04 12:30:41,200] {logging_mixin.py:115} INFO - Replace 900
+[2022-08-04 12:30:41,331] {logging_mixin.py:115} INFO - Replace 1000
+[2022-08-04 12:30:41,467] {logging_mixin.py:115} INFO - Replace 1100
+[2022-08-04 12:30:41,617] {logging_mixin.py:115} INFO - Replace 1200
+[2022-08-04 12:30:41,763] {logging_mixin.py:115} INFO - Replace 1300
+[2022-08-04 12:30:41,912] {logging_mixin.py:115} INFO - Replace 1400
+[2022-08-04 12:30:42,068] {logging_mixin.py:115} INFO - Replace 1500
+[2022-08-04 12:30:42,232] {logging_mixin.py:115} INFO - Replace 1600
+[2022-08-04 12:30:42,399] {logging_mixin.py:115} INFO - Replace 1700
+[2022-08-04 12:30:42,577] {logging_mixin.py:115} INFO - Replace 1800
+[2022-08-04 12:30:42,772] {logging_mixin.py:115} INFO - Replace 1900
+[2022-08-04 12:30:42,966] {logging_mixin.py:115} INFO - Replace 2000
+[2022-08-04 12:30:43,220] {logging_mixin.py:115} INFO - Replace 2100
+[2022-08-04 12:30:43,459] {logging_mixin.py:115} INFO - Replace 2200
+[2022-08-04 12:30:43,665] {logging_mixin.py:115} INFO - Replace 2300
+[2022-08-04 12:30:43,885] {logging_mixin.py:115} INFO - Replace 2400
+[2022-08-04 12:30:44,093] {logging_mixin.py:115} INFO - Replace 2500
+[2022-08-04 12:30:44,311] {logging_mixin.py:115} INFO - Replace 2600
+[2022-08-04 12:30:44,539] {logging_mixin.py:115} INFO - Replace 2700
+[2022-08-04 12:30:44,765] {logging_mixin.py:115} INFO - Replace 2800
+[2022-08-04 12:30:45,002] {logging_mixin.py:115} INFO - Replace 2900
+[2022-08-04 12:30:45,258] {logging_mixin.py:115} INFO - Replace 3000
+[2022-08-04 12:30:45,589] {logging_mixin.py:115} INFO - Replace 3100
+[2022-08-04 12:30:45,869] {logging_mixin.py:115} INFO - Replace 3200
+[2022-08-04 12:30:46,144] {logging_mixin.py:115} INFO - Replace 3300
+[2022-08-04 12:30:46,403] {logging_mixin.py:115} INFO - Replace 3400
+[2022-08-04 12:30:46,673] {logging_mixin.py:115} INFO - Replace 3500
+[2022-08-04 12:30:46,952] {logging_mixin.py:115} INFO - Replace 3600
+[2022-08-04 12:30:47,232] {logging_mixin.py:115} INFO - Replace 3700
+[2022-08-04 12:30:47,593] {logging_mixin.py:115} INFO - Replace 3800
+[2022-08-04 12:30:47,890] {logging_mixin.py:115} INFO - Replace 3900
+[2022-08-04 12:30:48,193] {logging_mixin.py:115} INFO - Replace 4000
+[2022-08-04 12:30:48,491] {logging_mixin.py:115} INFO - Replace 4100
+[2022-08-04 12:30:48,794] {logging_mixin.py:115} INFO - Replace 4200
+[2022-08-04 12:30:49,108] {logging_mixin.py:115} INFO - Replace 4300
+[2022-08-04 12:30:49,450] {logging_mixin.py:115} INFO - Replace 4400
+[2022-08-04 12:30:49,872] {logging_mixin.py:115} INFO - Replace 4500
+[2022-08-04 12:30:50,215] {logging_mixin.py:115} INFO - Replace 4600
+[2022-08-04 12:30:50,541] {logging_mixin.py:115} INFO - Replace 4700
+[2022-08-04 12:30:50,884] {logging_mixin.py:115} INFO - Replace 4800
+[2022-08-04 12:30:51,233] {logging_mixin.py:115} INFO - Replace 4900
+[2022-08-04 12:30:51,588] {logging_mixin.py:115} INFO - Replace 5000
+[2022-08-04 12:30:52,051] {logging_mixin.py:115} INFO - Replace 5100
+[2022-08-04 12:30:52,440] {logging_mixin.py:115} INFO - Replace 5200
+[2022-08-04 12:30:52,797] {logging_mixin.py:115} INFO - Replace 5300
+[2022-08-04 12:30:53,170] {logging_mixin.py:115} INFO - Replace 5400
+[2022-08-04 12:30:53,558] {logging_mixin.py:115} INFO - Replace 5500
+[2022-08-04 12:30:53,950] {logging_mixin.py:115} INFO - Replace 5600
+[2022-08-04 12:30:54,463] {logging_mixin.py:115} INFO - Replace 5700
+[2022-08-04 12:30:54,871] {logging_mixin.py:115} INFO - Replace 5800
+[2022-08-04 12:30:55,275] {logging_mixin.py:115} INFO - Replace 5900
+[2022-08-04 12:30:55,678] {logging_mixin.py:115} INFO - Replace 6000
+[2022-08-04 12:30:56,081] {logging_mixin.py:115} INFO - Replace 6100
+[2022-08-04 12:30:56,490] {logging_mixin.py:115} INFO - Replace 6200
+[2022-08-04 12:30:56,895] {logging_mixin.py:115} INFO - Replace 6300
+[2022-08-04 12:30:57,323] {logging_mixin.py:115} INFO - Replace 6400
+[2022-08-04 12:30:57,772] {logging_mixin.py:115} INFO - Replace 6500
+[2022-08-04 12:30:58,335] {logging_mixin.py:115} INFO - Replace 6600
+[2022-08-04 12:30:58,789] {logging_mixin.py:115} INFO - Replace 6700
+[2022-08-04 12:30:59,237] {logging_mixin.py:115} INFO - Replace 6800
+[2022-08-04 12:30:59,719] {logging_mixin.py:115} INFO - Replace 6900
+[2022-08-04 12:31:00,194] {logging_mixin.py:115} INFO - Replace 7000
+[2022-08-04 12:31:00,659] {logging_mixin.py:115} INFO - Replace 7100
+[2022-08-04 12:31:01,264] {logging_mixin.py:115} INFO - Replace 7200
+[2022-08-04 12:31:01,769] {logging_mixin.py:115} INFO - Replace 7300
+[2022-08-04 12:31:02,253] {logging_mixin.py:115} INFO - Replace 7400
+[2022-08-04 12:31:02,763] {logging_mixin.py:115} INFO - Replace 7500
+[2022-08-04 12:31:03,381] {logging_mixin.py:115} INFO - Replace 7600
+[2022-08-04 12:31:03,899] {logging_mixin.py:115} INFO - Replace 7700
+[2022-08-04 12:31:04,406] {logging_mixin.py:115} INFO - Replace 7800
+[2022-08-04 12:31:04,936] {logging_mixin.py:115} INFO - Replace 7900
+[2022-08-04 12:31:05,578] {logging_mixin.py:115} INFO - Replace 8000
+[2022-08-04 12:31:06,146] {logging_mixin.py:115} INFO - Replace 8100
+[2022-08-04 12:31:06,669] {logging_mixin.py:115} INFO - Replace 8200
+[2022-08-04 12:31:07,214] {logging_mixin.py:115} INFO - Replace 8300
+[2022-08-04 12:31:07,886] {logging_mixin.py:115} INFO - Replace 8400
+[2022-08-04 12:31:08,459] {logging_mixin.py:115} INFO - Replace 8500
+[2022-08-04 12:31:09,000] {logging_mixin.py:115} INFO - Replace 8600
+[2022-08-04 12:31:09,603] {logging_mixin.py:115} INFO - Replace 8700
+[2022-08-04 12:31:10,328] {logging_mixin.py:115} INFO - Replace 8800
+[2022-08-04 12:31:10,909] {logging_mixin.py:115} INFO - Replace 8900
+[2022-08-04 12:31:11,488] {logging_mixin.py:115} INFO - Replace 9000
+[2022-08-04 12:31:12,105] {logging_mixin.py:115} INFO - Replace 9100
+[2022-08-04 12:31:12,848] {logging_mixin.py:115} INFO - Replace 9200
+[2022-08-04 12:31:13,460] {logging_mixin.py:115} INFO - Replace 9300
+[2022-08-04 12:31:14,071] {logging_mixin.py:115} INFO - Replace 9400
+[2022-08-04 12:31:14,820] {logging_mixin.py:115} INFO - Replace 9500
+[2022-08-04 12:31:15,465] {logging_mixin.py:115} INFO - Replace 9600
+[2022-08-04 12:31:16,082] {logging_mixin.py:115} INFO - Replace 9700
+[2022-08-04 12:31:16,733] {logging_mixin.py:115} INFO - Replace 9800
+[2022-08-04 12:31:17,378] {logging_mixin.py:115} INFO - Replace 9900
+[2022-08-04 12:31:18,167] {logging_mixin.py:115} INFO - Replace 10000
+[2022-08-04 12:31:18,802] {logging_mixin.py:115} INFO - Replace 10100
+[2022-08-04 12:31:19,443] {logging_mixin.py:115} INFO - Replace 10200
+[2022-08-04 12:31:20,123] {logging_mixin.py:115} INFO - Replace 10300
+[2022-08-04 12:31:20,951] {logging_mixin.py:115} INFO - Replace 10400
+[2022-08-04 12:31:21,616] {logging_mixin.py:115} INFO - Replace 10500
+[2022-08-04 12:31:22,283] {logging_mixin.py:115} INFO - Replace 10600
+[2022-08-04 12:31:23,109] {logging_mixin.py:115} INFO - Replace 10700
+[2022-08-04 12:31:23,824] {logging_mixin.py:115} INFO - Replace 10800
+[2022-08-04 12:31:24,504] {logging_mixin.py:115} INFO - Replace 10900
+[2022-08-04 12:31:25,214] {logging_mixin.py:115} INFO - Replace 11000
+[2022-08-04 12:31:25,905] {logging_mixin.py:115} INFO - Replace 11100
+[2022-08-04 12:31:26,611] {logging_mixin.py:115} INFO - Replace 11200
+[2022-08-04 12:31:27,319] {logging_mixin.py:115} INFO - Replace 11300
+[2022-08-04 12:31:28,099] {logging_mixin.py:115} INFO - Replace 11400
+[2022-08-04 12:31:28,840] {logging_mixin.py:115} INFO - Replace 11500
+[2022-08-04 12:31:29,599] {logging_mixin.py:115} INFO - Replace 11600
+[2022-08-04 12:31:30,406] {logging_mixin.py:115} INFO - Replace 11700
+[2022-08-04 12:31:31,271] {logging_mixin.py:115} INFO - Replace 11800
+[2022-08-04 12:31:32,081] {logging_mixin.py:115} INFO - Replace 11900
+[2022-08-04 12:31:32,897] {logging_mixin.py:115} INFO - Replace 12000
+[2022-08-04 12:31:33,746] {logging_mixin.py:115} INFO - Replace 12100
+[2022-08-04 12:31:34,542] {logging_mixin.py:115} INFO - Replace 12200
+[2022-08-04 12:31:35,322] {logging_mixin.py:115} INFO - Replace 12300
+[2022-08-04 12:31:36,119] {logging_mixin.py:115} INFO - Replace 12400
+[2022-08-04 12:31:36,867] {logging_mixin.py:115} INFO - Replace 12500
+[2022-08-04 12:31:37,632] {logging_mixin.py:115} INFO - Replace 12600
+[2022-08-04 12:31:38,447] {logging_mixin.py:115} INFO - Replace 12700
+[2022-08-04 12:31:39,380] {logging_mixin.py:115} INFO - Replace 12800
+[2022-08-04 12:31:40,231] {logging_mixin.py:115} INFO - Replace 12900
+[2022-08-04 12:31:41,008] {logging_mixin.py:115} INFO - Replace 13000
+[2022-08-04 12:31:41,789] {logging_mixin.py:115} INFO - Replace 13100
+[2022-08-04 12:31:42,620] {logging_mixin.py:115} INFO - Replace 13200
+[2022-08-04 12:31:43,646] {logging_mixin.py:115} INFO - Replace 13300
+[2022-08-04 12:31:44,559] {logging_mixin.py:115} INFO - Replace 13400
+[2022-08-04 12:31:45,382] {logging_mixin.py:115} INFO - Replace 13500
+[2022-08-04 12:31:46,286] {logging_mixin.py:115} INFO - Replace 13600
+[2022-08-04 12:31:47,219] {logging_mixin.py:115} INFO - Replace 13700
+[2022-08-04 12:31:48,105] {logging_mixin.py:115} INFO - Replace 13800
+[2022-08-04 12:31:48,959] {logging_mixin.py:115} INFO - Replace 13900
+[2022-08-04 12:31:49,802] {logging_mixin.py:115} INFO - Replace 14000
+[2022-08-04 12:31:50,667] {logging_mixin.py:115} INFO - Replace 14100
+[2022-08-04 12:31:51,556] {logging_mixin.py:115} INFO - Replace 14200
+[2022-08-04 12:31:52,455] {logging_mixin.py:115} INFO - Replace 14300
+[2022-08-04 12:31:53,334] {logging_mixin.py:115} INFO - Replace 14400
+[2022-08-04 12:31:54,224] {logging_mixin.py:115} INFO - Replace 14500
+[2022-08-04 12:31:55,123] {logging_mixin.py:115} INFO - Replace 14600
+[2022-08-04 12:31:56,025] {logging_mixin.py:115} INFO - Replace 14700
+[2022-08-04 12:31:56,914] {logging_mixin.py:115} INFO - Replace 14800
+[2022-08-04 12:31:57,807] {logging_mixin.py:115} INFO - Replace 14900
+[2022-08-04 12:31:58,720] {logging_mixin.py:115} INFO - Replace 15000
+[2022-08-04 12:31:59,617] {logging_mixin.py:115} INFO - Replace 15100
+[2022-08-04 12:32:00,616] {logging_mixin.py:115} INFO - Replace 15200
+[2022-08-04 12:32:01,827] {logging_mixin.py:115} INFO - Replace 15300
+[2022-08-04 12:32:02,790] {logging_mixin.py:115} INFO - Replace 15400
+[2022-08-04 12:32:03,929] {logging_mixin.py:115} INFO - Replace 15500
+[2022-08-04 12:32:04,981] {logging_mixin.py:115} INFO - Replace 15600
+[2022-08-04 12:32:05,953] {logging_mixin.py:115} INFO - Replace 15700
+[2022-08-04 12:32:07,071] {logging_mixin.py:115} INFO - Replace 15800
+[2022-08-04 12:32:08,133] {logging_mixin.py:115} INFO - Replace 15900
+[2022-08-04 12:32:09,084] {logging_mixin.py:115} INFO - Replace 16000
+[2022-08-04 12:32:10,059] {logging_mixin.py:115} INFO - Replace 16100
+[2022-08-04 12:32:11,038] {logging_mixin.py:115} INFO - Replace 16200
+[2022-08-04 12:32:12,011] {logging_mixin.py:115} INFO - Replace 16300
+[2022-08-04 12:32:13,026] {logging_mixin.py:115} INFO - Replace 16400
+[2022-08-04 12:32:14,373] {logging_mixin.py:115} INFO - Replace 16500
+[2022-08-04 12:32:15,419] {logging_mixin.py:115} INFO - Replace 16600
+[2022-08-04 12:32:16,544] {logging_mixin.py:115} INFO - Replace 16700
+[2022-08-04 12:32:17,648] {logging_mixin.py:115} INFO - Replace 16800
+[2022-08-04 12:32:18,734] {logging_mixin.py:115} INFO - Replace 16900
+[2022-08-04 12:32:20,011] {logging_mixin.py:115} INFO - Replace 17000
+[2022-08-04 12:32:21,139] {logging_mixin.py:115} INFO - Replace 17100
+[2022-08-04 12:32:22,201] {logging_mixin.py:115} INFO - Replace 17200
+[2022-08-04 12:32:23,539] {logging_mixin.py:115} INFO - Replace 17300
+[2022-08-04 12:32:24,717] {logging_mixin.py:115} INFO - Replace 17400
+[2022-08-04 12:32:25,817] {logging_mixin.py:115} INFO - Replace 17500
+[2022-08-04 12:32:27,060] {logging_mixin.py:115} INFO - Replace 17600
+[2022-08-04 12:32:28,508] {logging_mixin.py:115} INFO - Replace 17700
+[2022-08-04 12:32:29,690] {logging_mixin.py:115} INFO - Replace 17800
+[2022-08-04 12:32:30,854] {logging_mixin.py:115} INFO - Replace 17900
+[2022-08-04 12:32:32,303] {logging_mixin.py:115} INFO - Replace 18000
+[2022-08-04 12:32:33,524] {logging_mixin.py:115} INFO - Replace 18100
+[2022-08-04 12:32:34,789] {logging_mixin.py:115} INFO - Replace 18200
+[2022-08-04 12:32:36,080] {logging_mixin.py:115} INFO - Replace 18300
+[2022-08-04 12:32:37,221] {logging_mixin.py:115} INFO - Replace 18400
+[2022-08-04 12:32:38,563] {logging_mixin.py:115} INFO - Replace 18500
+[2022-08-04 12:32:40,016] {logging_mixin.py:115} INFO - Replace 18600
+[2022-08-04 12:32:41,399] {logging_mixin.py:115} INFO - Replace 18700
+[2022-08-04 12:32:42,803] {logging_mixin.py:115} INFO - Replace 18800
+[2022-08-04 12:32:44,256] {logging_mixin.py:115} INFO - Replace 18900
+[2022-08-04 12:32:45,479] {logging_mixin.py:115} INFO - Replace 19000
+[2022-08-04 12:32:46,659] {logging_mixin.py:115} INFO - Replace 19100
+[2022-08-04 12:32:48,136] {logging_mixin.py:115} INFO - Replace 19200
+[2022-08-04 12:32:49,384] {logging_mixin.py:115} INFO - Replace 19300
+[2022-08-04 12:32:50,744] {logging_mixin.py:115} INFO - Replace 19400
+[2022-08-04 12:32:52,267] {logging_mixin.py:115} INFO - Replace 19500
+[2022-08-04 12:32:53,571] {logging_mixin.py:115} INFO - Replace 19600
+[2022-08-04 12:32:54,759] {logging_mixin.py:115} INFO - Replace 19700
+[2022-08-04 12:32:55,940] {logging_mixin.py:115} INFO - Replace 19800
+[2022-08-04 12:32:57,149] {logging_mixin.py:115} INFO - Replace 19900
+[2022-08-04 12:32:58,527] {logging_mixin.py:115} INFO - Replace 20000
+[2022-08-04 12:32:59,739] {logging_mixin.py:115} INFO - Replace 20100
+[2022-08-04 12:33:00,959] {logging_mixin.py:115} INFO - Replace 20200
+[2022-08-04 12:33:02,373] {logging_mixin.py:115} INFO - Replace 20300
+[2022-08-04 12:33:03,798] {logging_mixin.py:115} INFO - Replace 20400
+[2022-08-04 12:33:05,124] {logging_mixin.py:115} INFO - Replace 20500
+[2022-08-04 12:33:06,380] {logging_mixin.py:115} INFO - Replace 20600
+[2022-08-04 12:33:07,663] {logging_mixin.py:115} INFO - Replace 20700
+[2022-08-04 12:33:08,979] {logging_mixin.py:115} INFO - Replace 20800
+[2022-08-04 12:33:10,418] {logging_mixin.py:115} INFO - Replace 20900
+[2022-08-04 12:33:11,786] {logging_mixin.py:115} INFO - Replace 21000
+[2022-08-04 12:33:13,271] {logging_mixin.py:115} INFO - Replace 21100
+[2022-08-04 12:33:14,785] {logging_mixin.py:115} INFO - Replace 21200
+[2022-08-04 12:33:16,154] {logging_mixin.py:115} INFO - Replace 21300
+[2022-08-04 12:33:17,528] {logging_mixin.py:115} INFO - Replace 21400
+[2022-08-04 12:33:19,032] {logging_mixin.py:115} INFO - Replace 21500
+[2022-08-04 12:33:20,624] {logging_mixin.py:115} INFO - Replace 21600
+[2022-08-04 12:33:21,981] {logging_mixin.py:115} INFO - Replace 21700
+[2022-08-04 12:33:23,337] {logging_mixin.py:115} INFO - Replace 21800
+[2022-08-04 12:33:24,723] {logging_mixin.py:115} INFO - Replace 21900
+[2022-08-04 12:33:26,047] {logging_mixin.py:115} INFO - Replace 22000
+[2022-08-04 12:33:27,417] {logging_mixin.py:115} INFO - Replace 22100
+[2022-08-04 12:33:29,047] {logging_mixin.py:115} INFO - Replace 22200
+[2022-08-04 12:33:30,676] {logging_mixin.py:115} INFO - Replace 22300
+[2022-08-04 12:33:32,284] {logging_mixin.py:115} INFO - Replace 22400
+[2022-08-04 12:33:33,752] {logging_mixin.py:115} INFO - Replace 22500
+[2022-08-04 12:33:35,245] {logging_mixin.py:115} INFO - Replace 22600
+[2022-08-04 12:33:36,870] {logging_mixin.py:115} INFO - Replace 22700
+[2022-08-04 12:33:38,448] {logging_mixin.py:115} INFO - Replace 22800
+[2022-08-04 12:33:40,060] {logging_mixin.py:115} INFO - Replace 22900
+[2022-08-04 12:33:41,577] {logging_mixin.py:115} INFO - Replace 23000
+[2022-08-04 12:33:43,336] {logging_mixin.py:115} INFO - Replace 23100
+[2022-08-04 12:33:45,014] {logging_mixin.py:115} INFO - Replace 23200
+[2022-08-04 12:33:46,838] {logging_mixin.py:115} INFO - Replace 23300
+[2022-08-04 12:33:48,453] {logging_mixin.py:115} INFO - Replace 23400
+[2022-08-04 12:33:50,142] {logging_mixin.py:115} INFO - Replace 23500
+[2022-08-04 12:33:52,015] {logging_mixin.py:115} INFO - Replace 23600
+[2022-08-04 12:33:53,941] {logging_mixin.py:115} INFO - Replace 23700
+[2022-08-04 12:33:55,514] {logging_mixin.py:115} INFO - Replace 23800
+[2022-08-04 12:33:57,134] {logging_mixin.py:115} INFO - Replace 23900
+[2022-08-04 12:33:58,870] {logging_mixin.py:115} INFO - Replace 24000
+[2022-08-04 12:34:00,492] {logging_mixin.py:115} INFO - Replace 24100
+[2022-08-04 12:34:02,036] {logging_mixin.py:115} INFO - Replace 24200
+[2022-08-04 12:34:03,690] {logging_mixin.py:115} INFO - Replace 24300
+[2022-08-04 12:34:05,455] {logging_mixin.py:115} INFO - Replace 24400
+[2022-08-04 12:34:07,263] {logging_mixin.py:115} INFO - Replace 24500
+[2022-08-04 12:34:09,147] {logging_mixin.py:115} INFO - Replace 24600
+[2022-08-04 12:34:10,693] {logging_mixin.py:115} INFO - Replace 24700
+[2022-08-04 12:34:12,590] {logging_mixin.py:115} INFO - Replace 24800
+[2022-08-04 12:34:14,242] {logging_mixin.py:115} INFO - Replace 24900
+[2022-08-04 12:34:15,761] {logging_mixin.py:115} INFO - Replace 25000
+[2022-08-04 12:34:17,182] {logging_mixin.py:115} INFO - Insert 25100
+[2022-08-04 12:34:18,011] {logging_mixin.py:115} INFO - Insert 25200
+[2022-08-04 12:34:19,042] {logging_mixin.py:115} INFO - Insert 25300
+[2022-08-04 12:34:19,992] {logging_mixin.py:115} INFO - Insert 25400
+[2022-08-04 12:34:20,876] {logging_mixin.py:115} INFO - Insert 25500
+[2022-08-04 12:34:21,848] {logging_mixin.py:115} INFO - Insert 25600
+[2022-08-04 12:34:22,907] {logging_mixin.py:115} INFO - Insert 25700
+[2022-08-04 12:34:23,840] {logging_mixin.py:115} INFO - Insert 25800
+[2022-08-04 12:34:24,710] {logging_mixin.py:115} INFO - Insert 25900
+[2022-08-04 12:34:25,636] {logging_mixin.py:115} INFO - Insert 26000
+[2022-08-04 12:34:26,554] {logging_mixin.py:115} INFO - Insert 26100
+[2022-08-04 12:34:27,429] {logging_mixin.py:115} INFO - Insert 26200
+[2022-08-04 12:34:28,491] {logging_mixin.py:115} INFO - Insert 26300
+[2022-08-04 12:34:29,467] {logging_mixin.py:115} INFO - Insert 26400
+[2022-08-04 12:34:30,360] {logging_mixin.py:115} INFO - Insert 26500
+[2022-08-04 12:34:31,224] {logging_mixin.py:115} INFO - Insert 26600
+[2022-08-04 12:34:32,180] {logging_mixin.py:115} INFO - Insert 26700
+[2022-08-04 12:34:33,398] {logging_mixin.py:115} INFO - Insert 26800
+[2022-08-04 12:34:34,562] {logging_mixin.py:115} INFO - Insert 26900
+[2022-08-04 12:34:35,648] {logging_mixin.py:115} INFO - Insert 27000
+[2022-08-04 12:34:36,715] {logging_mixin.py:115} INFO - Insert 27100
+[2022-08-04 12:34:37,845] {logging_mixin.py:115} INFO - Insert 27200
+[2022-08-04 12:34:38,956] {logging_mixin.py:115} INFO - Insert 27300
+[2022-08-04 12:34:39,998] {logging_mixin.py:115} INFO - Insert 27400
+[2022-08-04 12:34:40,760] {local_task_job.py:220} WARNING - State of this instance has been externally set to None. Terminating instance.
+[2022-08-04 12:34:40,764] {process_utils.py:125} INFO - Sending Signals.SIGTERM to group 62618. PIDs of all processes in the group: [62618]
+[2022-08-04 12:34:40,764] {process_utils.py:80} INFO - Sending the signal Signals.SIGTERM to group 62618
+[2022-08-04 12:34:40,764] {taskinstance.py:1561} ERROR - Received SIGTERM. Terminating subprocesses.
+[2022-08-04 12:34:40,768] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py", line 19, in test_conn
+    hook(mongo_collection="users", db_name="test")
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/mongo_inserter.py", line 29, in __call__
+    if super().find(mongo_collection=mongo_collection, \
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/mongo_hook.py", line 139, in find
+    return collection.find_one(query, projection, **kwargs)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/collection.py", line 1452, in find_one
+    for result in cursor.limit(-1):
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/cursor.py", line 1248, in next
+    if len(self.__data) or self._refresh():
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/cursor.py", line 1165, in _refresh
+    self.__send_message(q)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/cursor.py", line 1052, in __send_message
+    response = client._run_operation(
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1302, in _run_operation
+    return self._retryable_read(
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1420, in _retryable_read
+    return func(session, server, sock_info, read_pref)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1298, in _cmd
+    return server.run_operation(
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/server.py", line 115, in run_operation
+    reply = sock_info.receive_message(request_id)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/pool.py", line 820, in receive_message
+    self._raise_connection_failure(error)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/pool.py", line 818, in receive_message
+    return receive_message(self, request_id, self.max_message_size)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/network.py", line 217, in receive_message
+    _receive_data_on_socket(sock_info, 16, deadline)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/network.py", line 299, in _receive_data_on_socket
+    chunk_length = sock_info.sock.recv_into(mv[bytes_read:])
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1563, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2022-08-04 12:34:40,770] {taskinstance.py:1415} INFO - Marking task as FAILED. dag_id=secret_vars, task_id=test_conn, execution_date=20220804T093032, start_date=20220804T093039, end_date=20220804T093440
+[2022-08-04 12:34:40,776] {standard_task_runner.py:92} ERROR - Failed to execute job 47 for task test_conn ((sqlite3.IntegrityError) FOREIGN KEY constraint failed
+[SQL: INSERT INTO task_fail (task_id, dag_id, run_id, map_index, start_date, end_date, duration) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('test_conn', 'secret_vars', 'manual__2022-08-04T09:30:32.430444+00:00', -1, '2022-08-04 09:30:39.135828', '2022-08-04 09:34:40.770315', 241)]
+(Background on this error at: https://sqlalche.me/e/14/gkpj); 62618)
+[2022-08-04 12:34:40,790] {process_utils.py:75} INFO - Process psutil.Process(pid=62618, status='terminated', exitcode=1, started='12:30:39') (62618) terminated with exit code 1

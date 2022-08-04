@@ -1,0 +1,2 @@
+[2022-08-04 12:28:02,757] {taskinstance.py:1169} INFO - Dependencies not met for <TaskInstance: secret_vars.test_conn manual__2022-08-04T09:27:46.287052+00:00 [up_for_retry]>, dependency 'Not In Retry Period' FAILED: Task is not ready for retry yet but will be retried automatically. Current date is 2022-08-04T09:28:02.757447+00:00 and task will be retried at 2022-08-04T09:33:00.624123+00:00.
+[2022-08-04 12:28:02,757] {local_task_job.py:101} INFO - Task is not able to be run

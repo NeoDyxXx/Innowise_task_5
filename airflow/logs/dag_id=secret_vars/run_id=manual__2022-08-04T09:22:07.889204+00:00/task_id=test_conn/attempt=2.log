@@ -1,0 +1,149 @@
+[2022-08-04 12:27:16,255] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: secret_vars.test_conn manual__2022-08-04T09:22:07.889204+00:00 [queued]>
+[2022-08-04 12:27:16,258] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: secret_vars.test_conn manual__2022-08-04T09:22:07.889204+00:00 [queued]>
+[2022-08-04 12:27:16,258] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-04 12:27:16,258] {taskinstance.py:1377} INFO - Starting attempt 2 of 2
+[2022-08-04 12:27:16,258] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-04 12:27:16,265] {taskinstance.py:1397} INFO - Executing <Task(PythonOperator): test_conn> on 2022-08-04 09:22:07.889204+00:00
+[2022-08-04 12:27:16,269] {standard_task_runner.py:52} INFO - Started process 62158 to run task
+[2022-08-04 12:27:16,271] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'secret_vars', 'test_conn', 'manual__2022-08-04T09:22:07.889204+00:00', '--job-id', '41', '--raw', '--subdir', 'DAGS_FOLDER/task_dag.py', '--cfg-path', '/tmp/tmpj4q_3lp3', '--error-file', '/tmp/tmpydxbr2nx']
+[2022-08-04 12:27:16,272] {standard_task_runner.py:80} INFO - Job 41: Subtask test_conn
+[2022-08-04 12:27:16,304] {task_command.py:371} INFO - Running <TaskInstance: secret_vars.test_conn manual__2022-08-04T09:22:07.889204+00:00 [running]> on host ndx-Victus
+[2022-08-04 12:27:16,331] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=secret_vars
+AIRFLOW_CTX_TASK_ID=test_conn
+AIRFLOW_CTX_EXECUTION_DATE=2022-08-04T09:22:07.889204+00:00
+AIRFLOW_CTX_TRY_NUMBER=2
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-08-04T09:22:07.889204+00:00
+[2022-08-04 12:27:16,334] {base.py:68} INFO - Using connection ID 'mongo_test_hook' for task execution.
+[2022-08-04 12:27:17,419] {logging_mixin.py:115} INFO - Update 0
+[2022-08-04 12:27:17,504] {logging_mixin.py:115} INFO - Update 100
+[2022-08-04 12:27:17,593] {logging_mixin.py:115} INFO - Update 200
+[2022-08-04 12:27:17,686] {logging_mixin.py:115} INFO - Update 300
+[2022-08-04 12:27:17,785] {logging_mixin.py:115} INFO - Update 400
+[2022-08-04 12:27:17,889] {logging_mixin.py:115} INFO - Update 500
+[2022-08-04 12:27:17,999] {logging_mixin.py:115} INFO - Update 600
+[2022-08-04 12:27:18,113] {logging_mixin.py:115} INFO - Update 700
+[2022-08-04 12:27:18,234] {logging_mixin.py:115} INFO - Update 800
+[2022-08-04 12:27:18,358] {logging_mixin.py:115} INFO - Update 900
+[2022-08-04 12:27:18,487] {logging_mixin.py:115} INFO - Update 1000
+[2022-08-04 12:27:18,622] {logging_mixin.py:115} INFO - Update 1100
+[2022-08-04 12:27:18,762] {logging_mixin.py:115} INFO - Update 1200
+[2022-08-04 12:27:18,912] {logging_mixin.py:115} INFO - Update 1300
+[2022-08-04 12:27:19,064] {logging_mixin.py:115} INFO - Update 1400
+[2022-08-04 12:27:19,223] {logging_mixin.py:115} INFO - Update 1500
+[2022-08-04 12:27:19,393] {logging_mixin.py:115} INFO - Update 1600
+[2022-08-04 12:27:19,560] {logging_mixin.py:115} INFO - Update 1700
+[2022-08-04 12:27:19,746] {logging_mixin.py:115} INFO - Update 1800
+[2022-08-04 12:27:19,920] {logging_mixin.py:115} INFO - Update 1900
+[2022-08-04 12:27:20,102] {logging_mixin.py:115} INFO - Update 2000
+[2022-08-04 12:27:20,293] {logging_mixin.py:115} INFO - Update 2100
+[2022-08-04 12:27:20,473] {logging_mixin.py:115} INFO - Update 2200
+[2022-08-04 12:27:20,665] {logging_mixin.py:115} INFO - Update 2300
+[2022-08-04 12:27:20,894] {logging_mixin.py:115} INFO - Update 2400
+[2022-08-04 12:27:21,106] {logging_mixin.py:115} INFO - Update 2500
+[2022-08-04 12:27:21,321] {logging_mixin.py:115} INFO - Update 2600
+[2022-08-04 12:27:21,543] {logging_mixin.py:115} INFO - Update 2700
+[2022-08-04 12:27:21,762] {logging_mixin.py:115} INFO - Update 2800
+[2022-08-04 12:27:21,986] {logging_mixin.py:115} INFO - Update 2900
+[2022-08-04 12:27:22,216] {logging_mixin.py:115} INFO - Update 3000
+[2022-08-04 12:27:22,450] {logging_mixin.py:115} INFO - Update 3100
+[2022-08-04 12:27:22,692] {logging_mixin.py:115} INFO - Update 3200
+[2022-08-04 12:27:22,936] {logging_mixin.py:115} INFO - Update 3300
+[2022-08-04 12:27:23,221] {logging_mixin.py:115} INFO - Update 3400
+[2022-08-04 12:27:23,506] {logging_mixin.py:115} INFO - Update 3500
+[2022-08-04 12:27:23,796] {logging_mixin.py:115} INFO - Update 3600
+[2022-08-04 12:27:24,092] {logging_mixin.py:115} INFO - Update 3700
+[2022-08-04 12:27:24,372] {logging_mixin.py:115} INFO - Update 3800
+[2022-08-04 12:27:24,662] {logging_mixin.py:115} INFO - Update 3900
+[2022-08-04 12:27:24,952] {logging_mixin.py:115} INFO - Update 4000
+[2022-08-04 12:27:25,342] {logging_mixin.py:115} INFO - Update 4100
+[2022-08-04 12:27:25,673] {logging_mixin.py:115} INFO - Update 4200
+[2022-08-04 12:27:26,019] {logging_mixin.py:115} INFO - Update 4300
+[2022-08-04 12:27:26,429] {logging_mixin.py:115} INFO - Update 4400
+[2022-08-04 12:27:26,772] {logging_mixin.py:115} INFO - Update 4500
+[2022-08-04 12:27:27,133] {logging_mixin.py:115} INFO - Update 4600
+[2022-08-04 12:27:27,482] {logging_mixin.py:115} INFO - Update 4700
+[2022-08-04 12:27:27,837] {logging_mixin.py:115} INFO - Update 4800
+[2022-08-04 12:27:28,189] {logging_mixin.py:115} INFO - Update 4900
+[2022-08-04 12:27:28,626] {logging_mixin.py:115} INFO - Update 5000
+[2022-08-04 12:27:29,003] {logging_mixin.py:115} INFO - Update 5100
+[2022-08-04 12:27:29,377] {logging_mixin.py:115} INFO - Update 5200
+[2022-08-04 12:27:29,768] {logging_mixin.py:115} INFO - Update 5300
+[2022-08-04 12:27:30,173] {logging_mixin.py:115} INFO - Update 5400
+[2022-08-04 12:27:30,574] {logging_mixin.py:115} INFO - Update 5500
+[2022-08-04 12:27:30,996] {logging_mixin.py:115} INFO - Update 5600
+[2022-08-04 12:27:31,430] {logging_mixin.py:115} INFO - Update 5700
+[2022-08-04 12:27:31,875] {logging_mixin.py:115} INFO - Update 5800
+[2022-08-04 12:27:32,313] {logging_mixin.py:115} INFO - Update 5900
+[2022-08-04 12:27:32,811] {logging_mixin.py:115} INFO - Update 6000
+[2022-08-04 12:27:33,266] {logging_mixin.py:115} INFO - Update 6100
+[2022-08-04 12:27:33,721] {logging_mixin.py:115} INFO - Update 6200
+[2022-08-04 12:27:34,175] {logging_mixin.py:115} INFO - Update 6300
+[2022-08-04 12:27:34,695] {logging_mixin.py:115} INFO - Update 6400
+[2022-08-04 12:27:35,140] {logging_mixin.py:115} INFO - Update 6500
+[2022-08-04 12:27:35,574] {logging_mixin.py:115} INFO - Update 6600
+[2022-08-04 12:27:36,016] {logging_mixin.py:115} INFO - Update 6700
+[2022-08-04 12:27:36,460] {logging_mixin.py:115} INFO - Update 6800
+[2022-08-04 12:27:36,932] {logging_mixin.py:115} INFO - Update 6900
+[2022-08-04 12:27:37,393] {logging_mixin.py:115} INFO - Update 7000
+[2022-08-04 12:27:37,841] {logging_mixin.py:115} INFO - Update 7100
+[2022-08-04 12:27:38,409] {logging_mixin.py:115} INFO - Update 7200
+[2022-08-04 12:27:38,907] {logging_mixin.py:115} INFO - Update 7300
+[2022-08-04 12:27:39,520] {logging_mixin.py:115} INFO - Update 7400
+[2022-08-04 12:27:40,081] {logging_mixin.py:115} INFO - Update 7500
+[2022-08-04 12:27:40,617] {logging_mixin.py:115} INFO - Update 7600
+[2022-08-04 12:27:41,142] {logging_mixin.py:115} INFO - Update 7700
+[2022-08-04 12:27:41,444] {local_task_job.py:220} WARNING - State of this instance has been externally set to None. Terminating instance.
+[2022-08-04 12:27:41,449] {process_utils.py:125} INFO - Sending Signals.SIGTERM to group 62158. PIDs of all processes in the group: [62158]
+[2022-08-04 12:27:41,449] {process_utils.py:80} INFO - Sending the signal Signals.SIGTERM to group 62158
+[2022-08-04 12:27:41,449] {taskinstance.py:1561} ERROR - Received SIGTERM. Terminating subprocesses.
+[2022-08-04 12:27:41,452] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/task_dag.py", line 19, in test_conn
+    hook(mongo_collection="users", db_name="test")
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/mongo_inserter.py", line 35, in __call__
+    super().replace_one(mongo_collection, doc, {"reviewId": data['reviewId']}, db_name)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/mongo_hook.py", line 233, in replace_one
+    return collection.replace_one(filter_doc, doc, **kwargs)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/collection.py", line 921, in replace_one
+    self._update_retryable(
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/collection.py", line 829, in _update_retryable
+    return self.__database.client._retryable_write(
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1448, in _retryable_write
+    return self._retry_with_session(retryable, func, s, None)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1321, in _retry_with_session
+    return self._retry_internal(retryable, func, session, bulk)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/_csot.py", line 105, in csot_wrapper
+    return func(self, *args, **kwargs)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/mongo_client.py", line 1362, in _retry_internal
+    return func(session, sock_info, retryable)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/collection.py", line 810, in _update
+    return self._update(
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/collection.py", line 766, in _update
+    result = sock_info.command(
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/pool.py", line 794, in command
+    self._raise_connection_failure(error)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/pool.py", line 766, in command
+    return command(
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/network.py", line 156, in command
+    reply = receive_message(sock_info, request_id)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/network.py", line 217, in receive_message
+    _receive_data_on_socket(sock_info, 16, deadline)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pymongo/network.py", line 299, in _receive_data_on_socket
+    chunk_length = sock_info.sock.recv_into(mv[bytes_read:])
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1563, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2022-08-04 12:27:41,454] {taskinstance.py:1415} INFO - Marking task as FAILED. dag_id=secret_vars, task_id=test_conn, execution_date=20220804T092207, start_date=20220804T092716, end_date=20220804T092741
+[2022-08-04 12:27:41,458] {standard_task_runner.py:92} ERROR - Failed to execute job 41 for task test_conn ((sqlite3.IntegrityError) FOREIGN KEY constraint failed
+[SQL: INSERT INTO task_fail (task_id, dag_id, run_id, map_index, start_date, end_date, duration) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('test_conn', 'secret_vars', 'manual__2022-08-04T09:22:07.889204+00:00', -1, '2022-08-04 09:27:16.255269', '2022-08-04 09:27:41.454405', 25)]
+(Background on this error at: https://sqlalche.me/e/14/gkpj); 62158)
+[2022-08-04 12:27:41,475] {process_utils.py:75} INFO - Process psutil.Process(pid=62158, status='terminated', exitcode=1, started='12:27:16') (62158) terminated with exit code 1

@@ -1,9 +1,6 @@
-import imp
-
-
 import pandas as pd
 import numpy as np
  
-data = pd.read_csv('data/tiktok_google_play_reviews.csv')
+data = pd.read_csv('/home/ndx/Innowise tasks/Innowise_task_5/data/tiktok_google_play_reviews_output.csv')
 
-print(data)
+data.to_dict('records')

@@ -1,0 +1,48 @@
+[2022-08-04 12:52:53,458] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: secret_vars.insert_task manual__2022-08-04T09:52:47.749251+00:00 [queued]>
+[2022-08-04 12:52:53,461] {taskinstance.py:1179} INFO - Dependencies all met for <TaskInstance: secret_vars.insert_task manual__2022-08-04T09:52:47.749251+00:00 [queued]>
+[2022-08-04 12:52:53,461] {taskinstance.py:1376} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-04 12:52:53,461] {taskinstance.py:1377} INFO - Starting attempt 1 of 2
+[2022-08-04 12:52:53,461] {taskinstance.py:1378} INFO - 
+--------------------------------------------------------------------------------
+[2022-08-04 12:52:53,467] {taskinstance.py:1397} INFO - Executing <Task(MongoInserterOperator): insert_task> on 2022-08-04 09:52:47.749251+00:00
+[2022-08-04 12:52:53,470] {standard_task_runner.py:52} INFO - Started process 65348 to run task
+[2022-08-04 12:52:53,471] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'secret_vars', 'insert_task', 'manual__2022-08-04T09:52:47.749251+00:00', '--job-id', '51', '--raw', '--subdir', 'DAGS_FOLDER/task_dag.py', '--cfg-path', '/tmp/tmpzdjvgqm_', '--error-file', '/tmp/tmp9gcmabyw']
+[2022-08-04 12:52:53,472] {standard_task_runner.py:80} INFO - Job 51: Subtask insert_task
+[2022-08-04 12:52:53,491] {task_command.py:371} INFO - Running <TaskInstance: secret_vars.insert_task manual__2022-08-04T09:52:47.749251+00:00 [running]> on host ndx-Victus
+[2022-08-04 12:52:53,511] {taskinstance.py:1589} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=secret_vars
+AIRFLOW_CTX_TASK_ID=insert_task
+AIRFLOW_CTX_EXECUTION_DATE=2022-08-04T09:52:47.749251+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-08-04T09:52:47.749251+00:00
+[2022-08-04 12:52:53,513] {base.py:68} INFO - Using connection ID 'mongo_test_hook' for task execution.
+[2022-08-04 12:52:54,656] {logging_mixin.py:115} INFO - Replace 0
+[2022-08-04 12:52:55,487] {logging_mixin.py:115} INFO - Replace 1000
+[2022-08-04 12:52:57,008] {logging_mixin.py:115} INFO - Replace 2000
+[2022-08-04 12:52:59,031] {logging_mixin.py:115} INFO - Replace 3000
+[2022-08-04 12:53:01,840] {logging_mixin.py:115} INFO - Replace 4000
+[2022-08-04 12:53:05,069] {logging_mixin.py:115} INFO - Replace 5000
+[2022-08-04 12:53:09,373] {logging_mixin.py:115} INFO - Replace 6000
+[2022-08-04 12:53:13,600] {local_task_job.py:220} WARNING - State of this instance has been externally set to None. Terminating instance.
+[2022-08-04 12:53:13,604] {process_utils.py:125} INFO - Sending Signals.SIGTERM to group 65348. PIDs of all processes in the group: [65348]
+[2022-08-04 12:53:13,604] {process_utils.py:80} INFO - Sending the signal Signals.SIGTERM to group 65348
+[2022-08-04 12:53:13,604] {taskinstance.py:1561} ERROR - Received SIGTERM. Terminating subprocesses.
+[2022-08-04 12:53:13,607] {taskinstance.py:1909} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/insert_operator.py", line 16, in execute
+    mongo_inserter(self.collection_name, self.db_name, self.insert_with_update)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow/dags/mongo_inserter.py", line 17, in __call__
+    "reviewId": data['reviewId'],
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/pandas/core/series.py", line 958, in __getitem__
+    return self._get_value(key)
+  File "/home/ndx/Innowise tasks/Innowise_task_5/airflow_env/lib/python3.8/site-packages/airflow/models/taskinstance.py", line 1563, in signal_handler
+    raise AirflowException("Task received SIGTERM signal")
+airflow.exceptions.AirflowException: Task received SIGTERM signal
+[2022-08-04 12:53:13,608] {taskinstance.py:1415} INFO - Marking task as FAILED. dag_id=secret_vars, task_id=insert_task, execution_date=20220804T095247, start_date=20220804T095253, end_date=20220804T095313
+[2022-08-04 12:53:13,612] {standard_task_runner.py:92} ERROR - Failed to execute job 51 for task insert_task ((sqlite3.IntegrityError) FOREIGN KEY constraint failed
+[SQL: INSERT INTO task_fail (task_id, dag_id, run_id, map_index, start_date, end_date, duration) VALUES (?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('insert_task', 'secret_vars', 'manual__2022-08-04T09:52:47.749251+00:00', -1, '2022-08-04 09:52:53.458613', '2022-08-04 09:53:13.608760', 20)]
+(Background on this error at: https://sqlalche.me/e/14/gkpj); 65348)
+[2022-08-04 12:53:13,630] {process_utils.py:75} INFO - Process psutil.Process(pid=65348, status='terminated', exitcode=1, started='12:52:53') (65348) terminated with exit code 1
